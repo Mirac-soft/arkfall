@@ -58,6 +58,14 @@ The code, art and music are mine. Some sound effects are Creative Commons (CC BY
 SIL Open Font License — all listed in [CREDITS.md](CREDITS.md). Those third-party assets keep their own
 licenses; see [NOTICE](NOTICE).
 
+## ⚠️ Disclaimer
+
+This game is provided **"AS IS"**, with no warranty of any kind, under the Apache 2.0 license. The author
+accepts **no liability** for any damage or consequence arising from downloading or running it.
+
+> 🇹🇷 **Sorumluluk reddi:** Bu oyun hiçbir garanti verilmeden "olduğu gibi" sunulur; indirilmesinden veya
+> çalıştırılmasından doğan hiçbir zarardan geliştirici sorumlu değildir.
+
 ## License
 
 Game code and original assets: [Apache License 2.0](LICENSE) © 2026 Miraç Yusuf Y.
