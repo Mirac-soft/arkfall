@@ -1,0 +1,734 @@
+0	    SECTEUR %d  ▶  %d
+1	    AIDE TOUCHES :
+2	   (+%.1f pts)
+5	   •   BOSS
+6	  (bonus de premier passage inclus)
+7	  (secteur rejoué : 25 %)
+8	  NOUVEAU !
+9	  •  Boss
+10	  •  TOUR %d : les ennemis se renforcent
+11	  •  points x%.1f
+12	 ABATTU !
+13	 pour mettre en pause. Tu es prêt, Faucon-1. Bonne chasse !
+31	%d (base)
+32	%d / %d fiches débloquées
+33	%s est tombé. Ta prochaine cible t'attend, Faucon-1.
+34	 en approche
+35	+%.1f POINTS DE PILOTE%s
+36	+%.1f PV/s
+37	+10 % d'expérience
+38	+10 % de zone d'effet
+39	+10 % de vitesse de vol
+40	+12 % de dégâts
+41	+4 % de chances de critique, +10 % de dégâts critiques
+42	+40 % de dégâts
+43	+40 % de rayon de collecte
+44	+45 % de dégâts
+45	+50 % de dégâts
+46	+60 % de dégâts
+48	+%d PV max
+49	+%d balle / missile / drone
+50	+%d XP de grade   •   Le mode infini ne donne pas de points de pilote, seulement records et grade
+51	+%d blindage
+52	+%d perforation de blindage
+53	+%d%% cadence de tir
+54	+%d%% zone d'effet
+55	+%d%% dégâts
+56	+%d%% dégâts critiques
+57	+%d%% chances de critique
+58	+%d%% rayon de collecte
+59	+%d%% rendement des noyaux
+60	+%d%% agilité
+61	+%d%% esquive
+62	+1 tir
+63	+1 lame
+64	+1 lame, +dégâts
+65	+1 drone
+66	+1 drone, plus rapide
+67	+1 missile
+68	+1 mine
+69	+1 balle
+70	+1 balle, tir plus rapide
+71	+1 rebond
+72	+1 tourelle
+73	+1 éclair
+74	+1 éclair, +2 rebonds
+75	+2 tirs
+76	+2 missiles
+77	+2 perforation de blindage
+78	+20 PV max, +1 blindage
+79	+30 PV
+80	+3000 points
+81	+50 PV
+82	+dégâts
+83	+dégâts, orbite plus large
+84	+dégâts, plus épais
+85	+dégâts, plus fréquent
+86	+dégâts, impacts plus rapides
+87	+dégâts, traînée plus longue
+90	// RADIO TACTIQUE DSHK
+91	// ÉMISSION VAHAR INTERCEPTÉE
+92	// CANAL CHIFFRÉ — SOURCE INCONNUE
+93	Anneau lent de 12 (projectiles lourds)
+94	Anneau de 16 (projectiles lourds)
+96	3 tourelles lourdes, tir très rapide
+97	3 mines, énorme rayon d'explosion
+98	Tir en éventail de 3 (projectiles moyens)
+99	5 lames, longue portée, enclines au critique
+100	5 canons, balles perforant 3 ennemis, tir bien plus rapide
+101	5 éclairs, chacun rebondit sur 8 ennemis
+102	6 drones, orbite large et très rapide
+103	Salves de 7 missiles, larges explosions
+104	8 000 mètres
+105	 : ruée. Traverse l'essaim de part en part.
+107	AVIONIQUE ADAPTATIVE
+110	COLONEL
+111	MENU PRINCIPAL
+112	CLÉ DE VOÛTE — puissante, mais avec un prix
+115	ASPIRANT
+116	PASSER (+%d PV)
+117	SIPHON ATMOSPHÉRIQUE
+120	AX-12 Gardien lourdement blindé
+121	PARAMÈTRES
+124	La zone s'agrandit
+125	Les armes de zone (IEM, napalm) font fondre l'essaim.
+128	Orbite basse
+134	Largue derrière toi des mines qui explosent au contact.
+135	Laisse derrière toi une traînée de carburant enflammée. Idéal contre un essaim qui te poursuit.
+136	Tapis de feu
+139	Chasseur
+143	ACTIVÉ
+144	ARBRE
+145	Mont Ararat
+148	Vaisseau lourd
+150	DÉPART
+151	SILENCE BLANC
+152	BOSS
+153	BOSS
+154	MUR DE NUAGES
+155	BRISE-GLACE
+156	Bloque périodiquement un coup entièrement (16 s, plus court avec le niveau)
+173	Abattre le boss sans subir de dégâts
+175	Tu ne peux pas encore atteindre cette région.
+180	Fiche verrouillée. Abats ce vaisseau une première fois pour ouvrir son dossier.
+194	SECTEUR
+195	SECTEUR %d  •  %s
+196	SECTEUR %d  ▶
+197	SECTEUR %d TERMINÉ
+198	DÉBLOQUÉ APRÈS LE SECTEUR %d
+199	SECTEUR %d : %s
+200	SECTEUR TERMINÉ !
+201	Secteur %d
+202	Secteur %d : essai %d   •   Puissance conseillée %d, la tienne %d   •   +%d XP de grade
+203	Terminer le secteur
+204	Diviseur
+205	Projectile divisé
+206	Un fragment du Diviseur. Petit et très rapide.
+209	Récupérer toutes les capsules
+211	COMMANDANT
+212	PV
+213	Corridor infernal
+216	VAGUE
+217	VAGUE %d
+219	ENDURANCE  %d PV + %d blindage
+220	SURVIE
+222	DÉFLECTEUR !
+223	CODEX
+224	ÎLE-FORGE
+225	CONTINUER
+226	CONTINUER  ▶
+227	PAUSE
+228	Tir plus rapide
+229	Plus épais, plus fréquent
+230	Plus fréquent
+231	Plus de portée, plus fréquent
+232	Durée de vie accrue, +dégâts
+233	Tourne puis plonge soudain
+234	Vague 1  •
+235	Plongeur
+242	Essais : %d   •   %s
+243	Expérience -12 %
+245	Appelle des renforts
+247	Énorme champ IEM, impacts très fréquents et puissants
+249	Les drones ne s'arrêtent jamais
+250	Mines fixes (lourdes)
+252	FONDERIE
+253	ENNEMIS
+254	ABATTUS
+255	ABATTUS  %d
+260	Un champ de projectiles tournant à trois ailes.
+261	Abats-le pendant qu'il tourne ; esquive de côté quand il plonge.
+263	Tir accéléré dans quatre directions
+264	Commandement de la défense aérienne terrestre
+268	Le meilleur pilote du monde
+269	Ne fuis pas en ligne droite : il te rattrape dans le virage. Fuis en arc.
+270	Ramasse les cristaux des vaisseaux abattus : barre pleine, tu montes de niveau et choisis une nouvelle arme.
+271	PV ennemis +10 %
+272	PV ennemis +8 %
+273	PV ennemis x%.1f
+274	PV ennemis x%.1f, dégâts x%.2f  •  points x%.1f
+275	Dégâts ennemis +10 %
+276	Dégâts ennemis +8 %
+277	Dégâts ennemis x%.1f
+278	Projectiles ennemis 10 % plus rapides
+279	Un éclair qui rebondit d'ennemi en ennemi.
+280	Ennemis 8 % plus rapides
+282	Abattus : %d
+284	BLINDAGE SUPPLÉMENTAIRE
+285	ÉMISSAIRE LYRA
+286	ÉLITE
+288	CEINTURE DE DÉBRIS
+289	ENTRÉE / TAB / SELECT : passer le tutoriel
+291	ÉCHAP : PAUSE   •   F : PLEIN ÉCRAN
+293	ÉVOLUTION :
+295	EX-9 Intercepteur à ruée électrique
+296	Mer Égée
+298	Un tir lent mais lourd qui traverse tout l'écran. Efficace contre le blindage.
+299	Une pluie d'artillerie qui couvre l'écran d'explosions
+303	Le plus rapide et le plus agile. Se faufile dans une tempête de balles.
+304	Le secteur le plus peuplé : ZONE + PV + RÉGÉNÉRATION.
+305	10 meilleures survies  •  les ennemis se renforcent à chaque vague
+306	Tire automatiquement sur l'ennemi le plus proche.
+310	Un vaisseau qui tourne en larguant des mines fixes.
+311	Tourne autour de toi
+314	TUTORIEL  %d / %d
+315	TUTORIEL :
+317	SOURIS ou ZQSD : VOLER   •   ARMES AUTOMATIQUES   •
+318	SOURIS : VOLER   •   ARMES AUTOMATIQUES   •   F : PLEIN ÉCRAN          v0.9
+319	RUÉE DE PHASE
+320	TEMPÊTE
+321	FORTERESSE DE LA TEMPÊTE
+324	Clic  •  1 / 2 / 3  •  R : relancer  •  B : bannir  •  S : passer
+325	Bouge la souris : ton avion suit le curseur.
+328	Le vétéran de la flotte. Équilibré, prévisible, indulgent.
+331	Cœur de tempête
+333	RETOUR
+337	Arrivée :
+341	Un couloir de flammes large, long et brûlant
+346	Vortex
+348	MISSION ÉCHOUÉE
+349	ABANDONNER LA MISSION
+350	TOUR DE GUET
+351	PUISSANCE  x%.2f
+358	Un porteur lourd avec des baies à drones dans la coque.
+359	Éclaireur
+366	Puissance insuffisante : persévère, chaque vol rapporte des points.
+367	Lance solaire
+369	HANGAR
+370	DÉPLACEMENT
+371	OPÉRATION  ▶
+372	OPÉRATION %d (%d/%d)  •  SECTEUR %d  •  %s
+373	OPÉRATION %d : SECTEURS %d-%d  •  ton build est conservé sur 3 secteurs, une opération commence toujours au premier
+374	ABANDONNER L'OPÉRATION
+375	REFAIRE L'OPÉRATION
+377	VERROUILLAGE
+378	VITESSE
+379	VITESSE  %d
+382	HX-7 Chasseur porte-missiles
+384	Anneau
+385	Éloigne-toi avant l'ouverture de l'anneau ; ils arrivent par intervalles.
+392	Points disponibles : %d      (chaque vol rapporte des points • molette : zoom • glisser : déplacer)
+393	Tu as %d points de pilote non dépensés !
+399	Fantôme
+402	5 obus de DCA vers la cible ; ils éclatent à 220 px. Efficaces contre essaims et blindage.
+403	Une lame qui file vers la cible et revient, perçant tout.
+404	Un rayon solaire à verrouillage qui perce tout.
+405	Missiles à tête chercheuse qui explosent à l'impact. Efficaces contre le blindage.
+406	Un rayon à verrouillage qui perce tout sur sa trajectoire.
+407	Aucun record pour l'instant. En l'air, pilote !
+408	Aucun pour l'instant
+409	+1 balle / missile / drone / tourelle tous les 2 niveaux
+410	Toutes les 5 s, une salve de 4 missiles lourds sur la cible la plus forte. +30 % de dégâts contre boss et élites.
+411	Absorbe entièrement un coup toutes les 7 s. Les collisions infligent des dégâts selon sa puissance.
+420	Tout est difficile : il faut un arbre équilibré et solide.
+424	Charge
+425	HISTOIRE
+426	Balles rapides + foule : un build équilibré est indispensable.
+427	Balles rapides : prends VITESSE et AGILITÉ dans la branche Propulsion.
+428	Intercepteur rapide. De l'escadrille du Chasseur d'avant-garde.
+429	RATÉ !
+430	Un vol d'échauffement. Ramasse des cristaux, essaie les cartes.
+431	Un assassin à blindage déviant la lumière. Seul le scintillement des contours est visible.
+432	BOUCLIER !
+433	DÉSACTIVÉ
+434	CAPSULE
+435	AILE CRAMOISIE
+436	COMMANDANT ATLAS
+437	GÉNÉRAL DE CORPS D'ARMÉE
+438	MER DE SABLE
+439	SERPENT DES SABLES
+440	VAISSEAU DE SIÈGE
+441	Gros essaims : la ZONE D'EFFET de la branche Technologie paie.
+442	Réseau-forteresse
+445	Porte-bouclier
+446	Une forteresse ambulante aux plaques épaisses.
+447	Un double rayon épais, long et à tir rapide
+449	Cappadoce
+453	Les améliorations de capsule donnent 2 niveaux d'un coup. Les évolutions ne sortent que des capsules.
+456	Mine trou noir
+457	Au-dessus de la mer Noire
+459	Lames cyclones
+461	Largue des tourelles qui tirent toutes seules.
+462	Tireur d'élite
+463	Se verrouille puis plonge (lourds dégâts de contact)
+465	Tes 10 meilleurs vols  •  Classement mondial dans la version Steam
+466	Le clavier marche aussi : vole avec ZQSD ou les flèches.
+467	Le commandement fait pleuvoir l'artillerie sur les ennemis (avec un court délai).
+472	Poursuit
+473	Ruche
+488	Pôle Nord
+491	CAUCHEMAR
+492	CAUCHEMAR : débloqué en terminant le secteur en DIFFICILE
+493	RENÉ DE SES CENDRES !
+494	RENAÎTRE DE SES CENDRES
+495	PETIT NŒUD
+497	VERROUILLÉ
+498	Anneau de lames
+499	Ligne de visée rouge, puis un tir lourd et rapide
+500	La ligne rouge signale le verrouillage : sors de la ligne.
+501	Un vaisseau doté d'un téléporteur à courte portée.
+502	Flux incurvé
+503	Étincelle
+511	L
+512	MALÉDICTION :
+513	MAUDIT
+530	MANŒUVRE  %.1f G
+532	FOREUSE
+533	AIMANT !
+537	PV max -15
+538	PV max -20
+540	Quand l'anneau bleu apparaît, éloigne-toi.
+541	Poseur de mines
+542	Champ de mines
+543	Murs de balles : trouve la brèche avec AGILITÉ et VITESSE.
+544	Mur de balles
+545	Vitesse des balles x%.2f
+546	Torrent de balles
+547	Les balles percent 1 ennemi, +dégâts
+548	Une plateforme à double canon qui garde ses distances.
+551	L'ingénierie a ouvert la capsule. Transfert des nouveaux systèmes.
+552	L'ingénierie a décodé un nouveau système à partir des noyaux vahar récoltés. Choisis-en un.
+553	NORMAL
+558	GÉNÉRAL D'ARMÉE
+562	Réparateur
+563	Kit de réparation
+565	Faucheur
+568	Le jour où les armées sont tombées, une escadrille volait encore.
+569	CHEMINÉES DE FÉE
+572	BOUCLIER PLASMA
+575	Le rayon d'explosion augmente
+576	Le rayon d'explosion augmente, plus fréquent
+577	Explosions plus grandes, plus fréquentes
+579	Puissance du pilote : %d points investis  •  %d à dépenser
+581	Un dard explosif sans pilote. Il clignote en se verrouillant, puis plonge.
+583	Prime
+584	Aucun point
+586	ARBRE DU PILOTE
+587	ARBRE DU PILOTE : %d points en attente
+588	PUISSANCE DU PILOTE
+589	PILOTE FAUCON-1
+591	COLLINE RADAR
+592	RB / A : RUÉE   •
+593	RB ou A
+596	RECORDS
+606	Ton record : %s  •  Vague %d
+607	Ton record : %s  •  Vague %d  •  Ce vol : %de
+608	ATTAQUE
+609	ATTAQUES
+611	SEIGNEUR DE GUERRE VAREK
+612	CLIC DROIT / ESPACE : ruée de 270 px, 0,4 s d'invulnérabilité, percute les ennemis. Recharge 2,5 s.
+614	CAMPAGNE
+615	CAMPAGNE  —  SECTEUR %d
+616	CARTE DE CAMPAGNE
+617	SEFINE
+618	SEFINE — LE VAISSEAU DE VIE
+619	SON :
+620	NIVEAU
+621	NIVEAU %d
+622	NIVEAU %d → %d
+623	NIVEAU %d → %d
+624	NIVEAU %d !
+625	CHOISIR
+626	RÉINITIALISER (gratuit)
+627	SCORE
+628	SCORE  %d
+629	STICK GAUCHE : VOLER   •   ARMES AUTOMATIQUES   •
+630	FIN
+631	DERNIER BASTION
+632	PROCHAIN VOL
+633	INFINI  •  VAGUE %d  •  %s
+634	MODE INFINI
+636	ESPACE / CLIC DROIT : RUÉE   •
+637	ESPACE ou CLIC DROIT
+640	START : PAUSE
+641	MOISSONNEUR D'EAU
+642	GUERRE DE L'EAU
+643	NV %d
+644	NV 1
+646	Désert du Sahara
+647	Une légende retrouvée dans une installation abandonnée du Sahara.
+650	Régénère +0,5 PV par seconde
+651	Quand il clignote en jaune, dégage sur le côté.
+653	Commandant de Sefine
+659	Les yeux bon marché et innombrables de Sefine. Inoffensifs seuls, étouffants en essaim.
+664	Tu vois 4 cartes à chaque niveau et as 2 relances de plus par opération. Le build le plus régulier.
+665	Les armes tirent 8 % plus souvent
+666	Tes armes tirent AUTOMATIQUEMENT. Approche-toi des ennemis, elles font le reste.
+667	Tes armes tirent automatiquement. Tu voles, tu esquives et tu ramasses les noyaux.
+668	Base aérienne de Sinop
+669	Le prototype secret de la base de Sinop. Un chasseur de boss.
+674	Vole avec le stick gauche : l'avion tourne vers le stick.
+676	La bataille finale. Il faut un arbre profond dans chaque branche et le bon avion.
+678	Prochain avion : %s (termine le secteur %d)
+680	Spirale
+681	Passe par les trous de la spirale ; reste proche, c'est plus sûr.
+682	Stratosphère
+684	TEMPS
+685	Produit sans cesse des drones Étincelle
+686	Un flux continu de micro-roquettes guidées à petites explosions.
+687	Spirale continue (projectiles légers)
+688	Missiles en essaim
+691	Un vaisseau de soutien qui reste derrière l'essaim.
+692	SYSTÈME EN LIGNE  //  PUISSANCE DU PILOTE %d
+694	Sauteur
+695	TABLE DES OPÉRATIONS TACTIQUES  //  15 RÉGIONS
+696	PLEIN ÉCRAN :
+697	RÉPARATION
+698	DATE
+699	MENACES
+700	REVOIR
+701	REVOLER
+702	DÉGÂTS DE CONTACT
+703	LIEUTENANT
+704	THE LAST SKY   //   OPÉRATION SEFINE
+706	BONUS TOTAUX\n
+708	GÉNÉRAL DE BRIGADE
+709	AIDE TOUCHES :
+715	Tombe en un coup ; drones et IEM suffisent.
+716	Un second rayon dans la direction opposée
+721	Artilleur
+722	Monts Taurus
+723	Tempête de tungstène
+725	Tous les avions débloqués !
+727	Clic / ESPACE : continuer      ÉCHAP : passer
+728	Clic : prendre
+733	Tue-le de loin : les fragments se dispersent et foncent sur toi.
+736	S'il vit trop longtemps il remplit l'écran : abats-le vite avec des armes lourdes.
+737	Un vaisseau à long canon. Te verrouille de loin.
+738	VOLER  ▶
+739	AVION
+740	Une forteresse volante. Tourne lentement mais fait fondre les essaims avec ses dégâts de zone.
+741	Drones d'attaque en orbite autour de ton avion.
+742	Une fois par vol, ressuscite à 60 % de PV et embrase les alentours. La plus forte puissance brute.
+743	Vitesse de vol -6 %
+744	Vitesse de vol -8 %
+746	DOSSIERS DE RENSEIGNEMENT SUR LA FLOTTE VAHAR
+747	VAISSEAU VAHAR
+748	VAISSEAU DE COMMANDEMENT VAHAR EN APPROCHE  //
+749	PILOTE VAHAR
+750	TRÔNE DE VAREK
+753	VX-1 Intercepteur léger
+754	Diplomate vahar
+760	Lac de Van
+764	La garde de Varek. Tourne autour de sa proie, puis fauche.
+766	Île volcanique
+769	ALERTE
+773	LIEUTENANT-COLONEL
+774	BANNIR (%d)
+775	Avec BANNIR actif, la carte cliquée ne reviendra plus de l'opération
+776	BANNIR : la carte cliquée ne reviendra plus de l'opération
+777	NOUVELLE ARME !
+778	NOUVEAU SYSTÈME !
+779	NOUVEL AVION DÉBLOQUÉ :
+780	NOUVEL AVION :
+781	RELANCER (%d)
+782	CAPACITÉ :
+783	Émission ennemie interceptée
+784	Recule quand tu approches : coince-le et achève-le.
+785	Apparaît de près et plonge
+786	Un arc électrique constant vers l'ennemi le plus proche ; rebondit sur 2 cibles.
+787	Blesse et repousse en continu les ennemis proches. Faible contre le blindage.
+788	Répare les ennemis proches avec un rayon vert
+792	Se téléporte à côté de toi et tire un anneau de 10 (projectiles moyens)
+793	Un bombardier lent mais blindé.
+794	Dérive lentement
+795	Vaisseau de vie
+796	Tir en éventail
+798	Densité x%.2f
+799	CAPITAINE
+800	La croix directionnelle marche aussi. Lâche le stick et l'avion continue tout droit.
+801	Canon orbital
+803	Collision à grande vitesse
+804	Amélioration de 2 niveaux d'un coup  •  les évolutions sortent d'ici
+805	Toile d'éclairs
+807	VICTOIRE !
+808	DIFFICILE
+809	DIFFICULTÉ
+810	DIFFICULTÉ :
+813	SOMMET
+814	Blindage %d
+815	Blindage +6 : canon électromagnétique, laser et perforation indispensables.
+816	Blindage 3 : les armes à faibles dégâts (IEM, drones) peinent.
+817	Blindage 4 : PERFORATION et gros coups uniques (laser, missile, mine).
+818	Blindage 5 + vaisseaux lourds : impossible sans dégâts et perforation.
+819	Char blindé
+820	Vaisseaux blindés (blindage 2) : les petits coups sont affaiblis. Prends Puissance de feu et PERFORATION.
+821	"  — Commandant Atlas
+823	\nPRIX :
+824	\nÉVOLUTION : + %s (nv %d), via une capsule de ravitaillement
+826	rapide
+832	lent
+835	QUITTER
+836	Collision
+837	Collision ; se divise en 3 Étincelles à sa destruction
+838	Puits gravitationnel
+839	Attention au rayon tracteur : il te faut de la VITESSE pour t'en dégager.
+840	Balles très rapides + rayon tracteur : la branche Propulsion est indispensable.
+841	Très peuplé : ZONE et PV ensemble.
+842	CHAROGNARD
+848	RÉCOMPENSE
+849	CHASSEUR D'AVANT-GARDE
+850	GRAND NŒUD
+851	Récompense : avion %s (%s)
+853	Prends d'abord un nœud relié
+854	Abats-le d'abord, sinon la zone se remplit de mines.
+855	Cible prioritaire : tant qu'il vit, l'essaim ne meurt pas.
+858	Absorbe 75 % des tirs de face. Frappe-le de côté / de dos : drones, mines, napalm, lames.
+859	Conseillé : %d   •   Le tien : %d
+860	Un chasseur lourd portant un bouclier d'énergie à l'avant. La première ligne de l'essaim.
+861	LIEUTENANT
+865	Un vaisseau composite de trois Étincelles soudées.
+866	Un éventail de trois tirs, dégâts colossaux
+867	très rapide
+868	CAPSULE DE RAVITAILLEMENT
+869	CHASSEURS JUMEAUX
+870	PREMIÈRE APPARITION
+871	PREMIÈRE FRAPPE
+872	VILLE DU PREMIER CONTACT
+873	ARME SIGNATURE :
+874	AIR RARÉFIÉ
+875	ANNULER
+876	ASTUCE
+877	POUSSÉE  %d px/s²
+878	Un flux rapide de balles depuis deux canons parallèles, verrouillés sur la cible.
+887	Première apparition : secteur %d
+888	Guette le léger scintillement ; dégage de côté dès qu'il apparaît.
+889	Astuce :
+890	Istanbul — Ruines
+891	La traînée brûle plus longtemps
+892	La traînée s'élargit
+894	FAUCON-1
+896	Faucon-1 est tombé à la vague %d au-dessus de %s.
+905	Ω-1 Prototype expérimental
+906	▶ MISSION SUIVANTE
+908	★ ÉVOLUTION ★
+909	★ NOUVEAU RECORD ! ★
+910	☠ +2 NIVEAUX ☠
+911	✔ AVION ACTIF
+912	✔ PRIS
+913	✔ TERMINÉ (rejouer : 25 % des points)
+914	moyen
+920	Dégâts
+921	Nombre
+922	Intervalle de tir
+923	Intervalle d'impact
+924	Rebonds
+925	Perforation
+926	Rayon d'explosion
+927	Rayon
+928	Portée
+929	Largeur
+930	Longueur
+931	Durée
+932	Temps actif
+933	Vitesse
+934	Rayon arrière
+935	 s
+936	permanent
+937	4 choix  •  les évolutions ne sortent que d'ici
+938	Les capsules offrent 4 choix. Les évolutions ne sortent que des capsules.
+939	C'est fini, Faucon-1. La guerre est finie. Rentre, le monde t'attend.
+940	+10 % de dégâts
+941	+8 % de dégâts sous la moitié des PV
+942	+10 % de dégâts contre élites et boss
+943	Ennemis 6 % plus rapides
+944	Puissance totale
+945	N'occupe pas d'emplacement, se cumule.
+946	TACTIQUE
+947	MAÎTRISE %s +%d
+948	PALIER %d : 
+949	DANGER ENVIRONNEMENTAL
+950	VENT !
+951	MAÎTRISE %d/5
+952	OPACITÉ DES EFFETS : 
+953	CHIFFRES DE DÉGÂTS : 
+954	CRITIQUES SEULS
+955	TOUS
+956	ARRIÈRE-PLAN 3D : 
+957	Réglage terrain : canons
+958	Réglage terrain : alimentation
+959	Rustine de coque
+960	Calibrage du viseur
+961	Filet de récupération
+962	Paquet de données
+963	Plan B
+964	+4 % de dégâts
+965	+4 % de cadence
+966	+12 PV max. et 30 % de réparation
+967	+3 % de chance de critique
+968	+15 % de portée de ramassage
+969	+5 % d'XP
+970	+1 relance, +1 bannissement
+971	Vulcan +10 % de dégâts
+972	+1 relance
+973	+8 % d'XP
+974	+1 bannissement
+975	Les balles Vulcan percent 1 ennemi
+976	Roquettes +10 % de dégâts
+977	Salve de verrouillage : 5 missiles
+978	+15 PV max.
+979	Salve toutes les 4 s
+980	+10 % de plus contre boss et élites
+981	Arc +10 % de dégâts
+982	Recharge du bond 2 s
+983	+5 % de dégâts
+984	L'arc rebondit sur 1 cible de plus
+985	Dégâts d'impact du bond +50 %
+986	Flak +10 % de dégâts
+987	Bouclier toutes les 6 s
+988	+20 PV max.
+989	Le flak tire 7 obus
+990	Onde de choc quand le bouclier absorbe un coup
+991	Lance solaire +10 % de dégâts
+992	Résurrection à 80 % de PV
+993	Lance solaire 15 % plus fréquente
+994	Explosion de résurrection doublée
+995	Chute de stalactites
+996	Des stalactites se détachent du sommet ! Évite les cercles bleus.
+997	Turbulences
+998	Turbulences dans le mur de nuages. Le vent va te pousser, vole contre lui.
+999	Foudre artificielle
+1000	La foudre arrive ! Elle frappe quand le cercle se referme. Attire les ennemis dedans, elle les brûle aussi.
+1001	Pluie de glace
+1002	La tempête polaire fait pleuvoir de la glace. Surveille les cercles.
+1003	Tempête de sable
+1004	Tempête de sable en approche. Résiste au vent.
+1005	Éruption de lave
+1006	Le volcan se réveille ! La lave va jaillir des cercles orange.
+1007	Courant-jet
+1008	On est dans le courant-jet. Vent fort, attention.
+1009	Débris de satellites
+1010	Les débris sont marqués par des lignes rouges. Sors de la ligne !
+1011	Rayons défensifs
+1012	Les tourelles de Sefine nous ont repérés. Évite les lignes de rayon !
+1013	Artillerie vahar
+1014	Varek bombarde la ville ! La ligne d'explosions avance vers toi.
+1015	PHASE 2
+1016	JETON %s !
+1017	L'équipe du hangar a mis de côté un jeton de capsule %s, Faucon-1. Tiens bon.
+1018	JETON %s  %s
+1019	JETONS DE CAPSULE %s : 
+1020	   •   à ouvrir dans Hangar > ATELIER
+1021	Chaque tranche de 4 minutes survécues donne un jeton de capsule (orange après 12 min, rouge après 20 min).
+1022	CADEAU DE CAMPAGNE : 1 JETON DE CAPSULE ORANGE (%s)  •  Hangar > ATELIER
+1023	VERT
+1024	ORANGE
+1025	ROUGE
+1026	ATELIER
+1027	PIÈCES : %d / %d
+1028	%s ×%d\nOUVRIR
+1029	FERRAILLE %d/%d : CHOISIR
+1030	Garantie : si %d capsules de plus ne donnent rien de 4+, la suivante est au moins AS
+1031	TRAÎNÉE ET FLAMME ASSORTIES : 
+1032	Les jetons se gagnent en MODE INFINI : 1 jeton toutes les 4 minutes survécues (orange après 12 min, rouge après 20 min). Un jeton ouvre la capsule de l'avion piloté.
+1033	ENSEMBLE LÉGENDAIRE
+1034	PEINTURE
+1035	TRAÎNÉE
+1036	FLAMME
+1037	INSIGNE
+1038	PAR DÉFAUT
+1039	STANDARD
+1040	MILITAIRE
+1041	AS
+1042	LÉGENDAIRE
+1043	DOUBLON : +1 FERRAILLE
+1044	NOUVELLE PIÈCE !
+1045	ÉQUIPER
+1046	OK
+1047	PLUS TARD
+1048	CHOISIR AVEC LA FERRAILLE (%d ferraille)
+1049	Aucune pièce de rareté 1-3 manquante.
+1050	ANNULER
+1051	Camouflage gris
+1052	Éclats côtiers
+1053	Vague égéenne
+1054	Pixel corail
+1055	Brise-lames
+1056	Cristal de glace
+1057	Traînée blanche
+1058	Hélice
+1059	Double ruban
+1060	Comète
+1061	Flamme bleue
+1062	Double cœur
+1063	Diamants de choc
+1064	Nova
+1065	Numéro d'escadrille
+1066	Chevrons d'aile
+1067	Gueule de requin
+1068	Bouclier céleste
+1069	Camouflage olive
+1070	Éclats broussailles
+1071	Forêt
+1072	Pixel venin
+1073	Tigre
+1074	Griffures
+1075	Émeraude
+1076	Pointillés
+1077	Fumée émeraude
+1078	Vague
+1079	Flamme verte
+1080	Flamme longue
+1081	Flamme fourchue
+1082	Plasma acide
+1083	Bandes de chasse
+1084	Yeux de faucon
+1085	Faucon chasseur
+1086	Camouflage sable
+1087	Éclats de pierre
+1088	Tempête
+1089	Pixel néon
+1090	Camouflage éclair
+1091	Circuit imprimé
+1092	Jaune électrique
+1093	Fumée jaune
+1094	Traînée éclair
+1095	Bleu électrique
+1096	Plasma d'arc
+1097	Nez éclair
+1098	Déluge
+1099	Camouflage rouille
+1100	Éclats de terre
+1101	Pixel braise
+1102	Langues de feu
+1103	Armure forteresse
+1104	Cuivre coulé
+1105	Fumée de braise
+1106	Ruban de feu
+1107	Pluie d'étincelles
+1108	Flamme orange
+1109	Plasma de lave
+1110	Anneaux de cible
+1111	Blason forteresse
+1112	Forteresse
+1113	Camouflage cendre
+1114	Éclats de fumée
+1115	Coucher de soleil
+1116	Pixel tulipe
+1117	Plumes de feu
+1118	Rayures de feu
+1119	Bonbon rose
+1120	Flamme rose
+1121	Bandes d'aile
+1122	Ailes de phénix
+1123	Phénix éternel

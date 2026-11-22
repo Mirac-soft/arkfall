@@ -1,0 +1,17 @@
+# Godot
+.godot/
+*.import.tmp
+
+# Derleme çıktısı (oyun Releases sayfasından indirilir)
+build/
+*.exe
+*.pck
+
+# Yerel ayar / önbellek
+tools/.godot_path
+__pycache__/
+node_modules/
+
+# Projeye ait olmayan dosyalar
+*.pdf
+decorative-grey-camouflage-*

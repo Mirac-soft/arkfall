@@ -1,0 +1,1117 @@
+0	    STAGE %d  ▶  %d
+1	    KEY HINTS:
+2	   (+%.1f pts)
+3	   [%s]
+4	   [+%d]
+5	   •   BOSS
+6	  (first-clear bonus included)
+7	  (replayed stage: 25%)
+8	  NEW!
+9	  •  Boss
+10	  •  LOOP %d: enemies grow stronger
+11	  •  points x%.1f
+12	 DOWN!
+13	 to pause. You're ready, Falcon-1. Good hunting!
+14	!All batteries! Fire everything you have at the earthling!
+15	!I will not kneel! The last king of a people does not kneel!
+16	!The casting line is collapsing! Launch the last ships!
+17	!My hull is cracking! I'll bury you as an avalanche!
+18	!My scrap is scattering! Let every piece be a bullet!
+19	!Generators overloaded! Let the lightning take us all!
+20	!My wing is gone... but my flames will find you!
+21	!My wings are burning... but the final blow is mine!
+22	!You wounded my brother! Now we are both furious!
+23	!I'm sinking into the sand... and taking you with me!
+24	!The drill is broken, but I'll drag you underground too!
+25	!My lenses are cracking... but I still see you!
+26	!My tanks are ruptured! You'll never get your air back!
+27	!My tanks are bursting! But half the lake is already ours!
+28	!Core critical! Varek... are you abandoning us?!
+29	%d  (%s)
+30	%d  •  %s
+31	%d (base)
+32	%d / %d entries unlocked
+33	%s is down. Your next target awaits, Falcon-1.
+34	 inbound
+35	+%.1f PILOT POINTS%s
+36	+%.1f HP/s
+37	+10% experience
+38	+10% area of effect
+39	+10% flight speed
+40	+12% damage
+41	+4% crit chance, +10% crit damage
+42	+40% damage
+43	+40% pickup range
+44	+45% damage
+45	+50% damage
+46	+60% damage
+47	+%d
+48	+%d max HP
+49	+%d bullet / missile / drone
+50	+%d rank XP   •   Endless mode gives no pilot points, only records and rank
+51	+%d armor
+52	+%d armor penetration
+53	+%d%% fire rate
+54	+%d%% area of effect
+55	+%d%% damage
+56	+%d%% crit damage
+57	+%d%% crit chance
+58	+%d%% pickup range
+59	+%d%% core yield
+60	+%d%% agility
+61	+%d%% evasion chance
+62	+1 shot
+63	+1 glaive
+64	+1 glaive, +damage
+65	+1 drone
+66	+1 drone, faster
+67	+1 missile
+68	+1 mine
+69	+1 bullet
+70	+1 bullet, faster fire
+71	+1 chain jump
+72	+1 turret
+73	+1 bolt
+74	+1 bolt, +2 jumps
+75	+2 shots
+76	+2 missiles
+77	+2 armor penetration
+78	+20 max HP, +1 armor
+79	+30 HP
+80	+3000 points
+81	+50 HP
+82	+damage
+83	+damage, wider orbit
+84	+damage, thicker
+85	+damage, faster
+86	+damage, faster ticks
+87	+damage, longer trail
+88	...no one should be on this frequency. Falcon-1, the drill's cooling ring is at the back. You didn't hear it from me.
+89	...I'm in a cell, but I'm listening. The Siphon's beam pauses for a moment when it cuts. Strike then.
+90	// DSHK TACTICAL RADIO
+91	// INTERCEPTED VAHAR BROADCAST
+92	// ENCRYPTED CHANNEL — SOURCE UNKNOWN
+93	Slow ring of 12 (heavy rounds)
+94	Ring of 16 (heavy rounds)
+95	2041. The world was turning as it always had...
+96	3 heavy turrets, very fast fire
+97	3 mines, huge blast radius
+98	3-way fan shot (medium rounds)
+99	5 glaives, wide range, crit-prone
+100	5 barrels, rounds pierce 3 enemies, much faster fire
+101	5 bolts, each jumps to 8 enemies
+102	6 drones, wide and very fast orbit
+103	7-missile salvos, wide blasts
+104	8,000 metres
+105	: dash. Cut straight through the swarm.
+106	ACROBAT
+107	ADAPTIVE AVIONICS
+108	AEGIS
+109	AIRFRAME
+110	COLONEL
+111	MAIN MENU
+112	KEYSTONE — powerful, but at a price
+113	AP Penetrators
+114	ARMOR PIERCER
+115	ENSIGN
+116	SKIP (+%d HP)
+117	ATMOSPHERE SIPHON
+118	AVIONICS
+119	AX Flak Battery
+120	AX-12 Heavy Armored Guardian
+121	SETTINGS
+122	The island's thermal map is red. Don't fly low over the lava, your engines will choke.
+123	Afterburner Stage II
+124	Area grows
+125	Area weapons (EMP, napalm) melt the swarm.
+126	A gold-armored ship! It carries a supply pod. Bring it down!
+127	You have no idea what lies beneath, pilot.
+128	Low Orbit
+129	But our last radar in the Taurus was about to go silent.
+130	But Varek escaped. He landed where it all began: the ruined square of Istanbul.
+131	But the sky was thinning. A siphon in the stratosphere was drinking our air.
+132	But the data from the poles was wrong: beneath the glaciers lay a Vahar base.
+133	Ammo Multiplexer
+134	Drops mines behind you that explode on contact.
+135	Leaves a burning fuel trail behind you. Ideal against a chasing swarm.
+136	Carpet of Fire
+137	The Atmosphere Siphon is down. Oxygen levels are starting to rise.
+138	The Atmosphere Siphon harvests oxygen from the top of the sky. Breathing on Earth is getting harder.
+139	Hunter
+140	Hunter Seven is down! Repeat, Hunter Seven is down!
+141	Hunter Three to Sefine: the earthlings sent a single plane. Laughable.
+142	A ship the size of a moon. Its shields are down. You fly over its hull; the core lies just below.
+143	ON
+144	TREE
+145	Mount Ararat
+146	There's a blizzard on Ararat, but the Ice Breaker won't stop.
+147	Ararat's glaciers were melting. An Ice Breaker was descending into the heart of the mountain.
+148	Heavy Ship
+149	BALLISTICS
+150	START
+151	WHITE SILENCE
+152	BOSS
+153	BOSSES
+154	CLOUD WALL
+155	ICE BREAKER
+156	Periodically blocks one hit completely (16 s, shorter with level)
+157	I am a storm. Storms do not bargain.
+158	I am not a ship. I am the last home of a people.
+159	Neither will I.
+160	I don't sleep, I don't blink, I don't forget.
+161	I'm shooting the guns, not the passengers, Varek. That's the difference between us.
+162	I am the Vanguard. Those who come after me won't be as gentle.
+163	He found me. This may be my last message, Falcon-1. Go to the facility. PHOENIX is still there.
+164	You hid under stone for thousands of years. We fought under the stars for thousands of years.
+165	One more. Bring on the next.
+166	One... two... I've stopped counting.
+167	If one falls, the other takes revenge. Which will you shoot first?
+168	Finish it, Falcon-1. For everyone.
+169	We are two, you are one. The math is simple.
+170	The last lake on our planet dried up just like this. I was there. Stop it.
+171	Blast Core Expander
+172	Boomerang Glaive
+173	Down the boss without taking damage
+174	That's not a pilot, that's a demon! Hold formation!
+175	You can't reach this region yet.
+176	I've never seen a pilot clear this stage on the first try. Fall back and get stronger if you must.
+177	Our weather satellite is somewhere in that wreckage. My mother checked it every morning.
+178	This lake would keep a civilization alive for a year. Not yours. Ours.
+179	Is that all? I was just warming up.
+180	This entry is sealed. Shoot down this ship for the first time to open its intel file.
+181	These waters are my childhood. No one burns this place.
+182	We lost today, but not the war. Spend the points you earned and fly again.
+183	The sky above the clouds is ours. I'll burn your wings.
+184	Above the clouds is ours. This will be your grave, pilot.
+185	The sun still rises above the clouds. I won't let them take that too.
+186	You'll pay for this, pilot. In blood.
+187	This is where you shook Lyra's hand. That hand was trembling. Mine won't.
+188	There's no air here, earthling. Hold your breath, maybe you'll live a little longer.
+189	The silence here is so deep I can hear my own heartbeat.
+190	This is where we first shook hands, pilot. Remember?
+191	The Ice Breaker lies buried under the snow. EAGLE has joined the fleet.
+192	The Ice Breaker melts Ararat's glaciers and steals their water. Thin air at the summit, harsh bullets.
+193	Ice is patient, pilot. So am I.
+194	STAGE
+195	STAGE %d  •  %s
+196	STAGE %d  ▶
+197	STAGE %d COMPLETE
+198	UNLOCKS AFTER STAGE %d
+199	STAGE %d: %s
+200	STAGE COMPLETE!
+201	Stage %d
+202	Stage %d: attempt %d   •   Recommended power %d, your power %d   •   +%d rank XP
+203	Clear the stage
+204	Splitter
+205	Splitting shot
+206	A piece of the Splitter. Small and very fast.
+207	Every Vahar frequency has gone silent. The calm before the storm.
+208	Every squadron is on the same frequency today. For the first time, Earth flies under one flag.
+209	Collect every supply pod
+210	A massive signal approaching. The boss is coming, Falcon-1. Get ready.
+211	MAJOR
+212	HP
+213	Hellfire Corridor
+214	Ceramic-Composite Plating
+215	Cryogenic Coolant Loop
+216	WAVE
+217	WAVE %d
+218	DATA LINK
+219	DURABILITY  %d HP + %d armor
+220	SURVIVED
+221	DEADEYE
+222	DEFLECTOR!
+223	CODEX
+224	FORGE ISLAND
+225	CONTINUE
+226	CONTINUE  ▶
+227	PAUSED
+228	Faster fire
+229	Thicker, more frequent
+230	More frequent
+231	Longer range, more frequent
+232	Longer lifetime, +damage
+233	Circles, then suddenly dives
+234	Wave 1  •
+235	Diver
+236	If the last radar station on the mountain falls, we go blind. The Vahar know it: they planted a giant Watchtower on the peak.
+237	The wind gusts between the mountains. The plane shakes; I don't.
+238	The old base in the mountains' shadow is the one place Vahar scanners can't see. The resistance gathered here. Now it's under siege.
+239	Your mountains have hearts of ice. When we melt them, what will be left?
+240	Your mountain has ice in its heart, and you have fear in yours. I'll melt both.
+241	Deflector Screen
+242	Attempts: %d   •   %s
+243	Experience -12%
+244	Signal from Derinkuyu: there are children underground. The Drill gets closer with every strike.
+245	Calls reinforcements
+246	Deutsch
+247	Huge EMP field, very frequent and hard-hitting
+248	Watch out! They're surrounding you!
+249	Drones never shut off
+250	Stationary mines (heavy)
+251	Your walls are paper, your gates are glass.
+252	FOUNDRY
+253	ENEMIES
+254	KILLS
+255	KILLS  %d
+256	Casting line at full capacity! Drive the earthling into the lava!
+257	The Foundry stamps out a ship every minute. Every second here means a new enemy.
+258	The Foundry turns out new ships every minute. Stop it first.
+259	The Foundry collapsed into the lava. No more ships are coming.
+260	A spinning, three-winged bullet field.
+261	Try to kill it while it circles; dodge sideways when it dives.
+262	They're coming from every side, Falcon-1! Pick a direction and punch through!
+263	Four-way accelerating shot
+264	Earth Defense Air Command
+265	The Earth was breathing again. And in the sky, a pilot was coming home.
+266	All of Earth's hope rides on your wings.
+267	I didn't cry when our world died, pilot. I won't cry for yours either.
+268	The best pilot in the world
+269	Don't flee in a straight line: it catches you on the turn. Escape in arcs.
+270	Collect the crystals left by fallen ships: when the bar fills you level up and pick a new weapon.
+271	Enemy HP +10%
+272	Enemy HP +8%
+273	Enemy HP x%.1f
+274	Enemy HP x%.1f, damage x%.2f  •  points x%.1f
+275	Enemy damage +10%
+276	Enemy damage +8%
+277	Enemy damage x%.1f
+278	Enemy bullets 10% faster
+279	Lightning that jumps from enemy to enemy.
+280	Enemies 8% faster
+281	I did think, Varek. We offered to share. You chose to take.
+282	Kills: %d
+283	E
+284	EXTRA ARMOR
+285	ENVOY LYRA
+286	ELITE
+287	EMP Field Emitter
+288	DEBRIS BELT
+289	ENTER / TAB / SELECT: skip tutorial
+290	ESC
+291	ESC: PAUSE   •   F: FULLSCREEN
+292	EVASION MASTER
+293	EVOLUTION:
+294	EX Arc Lancer
+295	EX-9 Electric Dash Interceptor
+296	Aegean Sea
+297	Red warning on the screen... quiet, I know.
+298	A slow but heavy shot that pierces the whole screen. Strong against armored targets.
+299	An artillery rain that covers the screen in explosions
+300	Elite signal! The pod it carries holds a powerful upgrade, maybe an evolution.
+301	Was Envoy Lyra right? What if this war... quiet, the channel is open!
+302	Bring down the Siphon, Falcon-1. Give us our breath back.
+303	The fastest and most agile. Slips through a storm of bullets.
+304	The most crowded stage: AREA + HP + REGENERATION.
+305	Top 10 survival times  •  enemies grow stronger every wave
+306	Automatically fires at the nearest enemy.
+307	English
+308	Español
+309	Impressive. Your death will be even more impressive.
+310	A ship that circles around dropping stationary mines.
+311	Orbits around you
+312	When I get home you owe me a coffee, Commander.
+313	I want to go home... but there is no home to go back to.
+314	TUTORIAL  %d / %d
+315	TUTORIAL:
+316	FALCON
+317	MOUSE or WASD: FLY   •   WEAPONS AUTO-FIRE   •
+318	MOUSE: FLY   •   WEAPONS AUTO-FIRE   •   F: FULLSCREEN          v0.9
+319	PHASE DASH
+320	STORM
+321	STORM FORTRESS
+322	FOCUS ARRAY
+323	FORTRESS
+324	Click  •  1 / 2 / 3  •  R: reroll  •  B: banish  •  S: skip
+325	Move the mouse: your plane follows the cursor.
+326	I won't need more than that.
+327	The fleet is melting! Who is this pilot?!
+328	The veteran of the fleet. Balanced, predictable, forgiving.
+329	Français
+330	The storm broke, the fortress fell silent.
+331	Storm Core
+332	Welcome to the eye of the storm. No one has left here alive.
+333	BACK
+334	GLASS CANNON
+335	You're passing through Galata's shadow. This city has fallen a thousand times and risen a thousand times.
+336	Come on then. All of you.
+337	Arrives:
+338	There are millions of Vahar civilians aboard, Falcon-1. Hit only the core.
+339	The ones who came down looked like us. Same genes, same faces... almost. \"We come in peace,\" said Envoy Lyra. \"Our world is dead. We only want to breathe.\"
+340	If you bring down my ship you kill my people too. Then who is the monster?
+341	A wide, long, scorching corridor of flame
+342	Your return fuel is measured to the drop, Falcon-1. Nothing extra. No margin for error.
+343	Only orbit remains. Beyond the debris belt: SEFINE.
+344	We are cooling your planet. We grew up on ice worlds; you can't.
+345	We changed your planet's climate in a week. You had a thousand years.
+346	Vortex
+347	Graviton Mines
+348	MISSION FAILED
+349	ABANDON MISSION
+350	WATCHTOWER
+351	POWER  x%.2f
+352	The sky is flashing red. It's like the heart of this storm is beating.
+353	Your sky beats to my rhythm now.
+354	The lake drops a metre every hour. Not today.
+355	The lake level drops a metre every hour.
+356	Your lake is a year for us, a memory for you.
+357	What we saw was horrifying: the water of Lake Van was being sucked into the sky.
+358	A heavy carrier with drone bays in its hull.
+359	Scout
+360	The Watchtower has fallen. Our radars can see again.
+361	The only thing the Watchtower misses is mercy. We don't use it anyway.
+362	The Watchtower's bullets are very fast. Don't stop, keep moving.
+363	Scout to fleet: target marked. It has nowhere to run.
+364	The scout's bullets are fast but fly straight. Don't stay in one place, pilot.
+365	The blue of your sky is fading. Have you noticed?
+366	Not enough power: keep trying, every flight earns points.
+367	Sun Spear
+368	Nice flying, Falcon-1. The ground crews are cheering you on the screens.
+369	HANGAR
+370	MOVEMENT
+371	OPERATION  ▶
+372	OPERATION %d (%d/%d)  •  STAGE %d  •  %s
+373	OPERATION %d: STAGES %d-%d  •  your build carries over 3 stages, an operation always starts from its first stage
+374	ABANDON OPERATION
+375	RETRY OPERATION
+376	HEAVY PLATING
+377	TARGET LOCK
+378	SPEED
+379	SPEED  %d
+380	HMX Seeker Missiles
+381	HX Swarm Rockets
+382	HX-7 Missile Carrier Fighter
+383	The traitor envoy is in custody! Repeat, Lyra is in custody!
+384	Ring
+385	Get away before the ring opens; the rings come at intervals.
+386	My people's last hope is aboard this ship. Do you know what happens if you bring it down?
+387	The hangar crew placed a bet: Falcon-1 downs a hundred today. Don't embarrass me.
+388	The hangar crew lost the bet. Everyone owes you now.
+389	The hangar crew is preparing a new airframe. What will you do differently this time, pilot?
+390	There are wounded in the hangar, Falcon-1. If that gate opens...
+391	There's an unfinished prototype in the hangar. Save the base and it's yours.
+392	Points to spend: %d      (every flight earns points • wheel: zoom • drag: pan)
+393	You have %d unspent pilot points!
+394	Your damage report is red! Break off, recover, then strike!
+395	The Harvester is down, the lake is saved. A voice from the hangar: VOLT is ready.
+396	Harvester to fleet: tanks at sixty percent. Keep the earthling busy!
+397	Don't get caught in the Harvester's beam. It'll pull you in too.
+398	I remember. And what you did after.
+399	Ghost
+400	The survivors gathered at the secret base in Sinop. But the Vahar were on our heels.
+401	Target down! Great job, Falcon-1!
+402	5 flak rounds toward the target; they burst at 220 px. Effective against swarms and armor.
+403	A glaive that flies to its target and returns, piercing everything.
+404	A solar beam that locks on and pierces everything.
+405	Homing missiles that explode on impact. Good against armor.
+406	A beam that locks on and pierces everything in its path.
+407	No records yet. Take to the skies, pilot!
+408	None yet
+409	+1 bullet / missile / drone / turret every 2 levels
+410	Every 5 s, a salvo of 4 heavy missiles at the strongest target. +30% damage vs bosses and elites.
+411	Fully absorbs one hit every 7 s. Ramming deals damage based on its strength.
+412	Every drop is a Vahar child. I won't step back.
+413	For every ship you down, I send ten more. The math is on my side.
+414	Every fall is a lesson, pilot. Find the missing branch in your tree.
+415	I see your every move, pilot. Every single one.
+416	Every breath you take is a gift to me.
+417	You think every rock is a shield. Rock can be pierced.
+418	It all began here, pilot. In the square where you shook Lyra's hand. It ends here too.
+419	It all began here. It ends here.
+420	Everything is hard: you need a balanced, strong tree.
+421	Losing hydraulics... but still flying.
+422	New hunters built from scrap! The only earthling approaching Sefine, stop it!
+423	I'm out of my cell. I'm opening the path to the core. Don't stop my people. Stop Varek.
+424	Charge
+425	STORY
+426	Fast bullets + crowds: a balanced build is a must.
+427	Fast bullets: take SPEED and AGILITY in the Propulsion branch.
+428	Fast interceptor. From the Vanguard Hunter's squadron.
+429	MISS!
+430	A warm-up flight. Collect crystals, try the cards.
+431	An assassin cloaked in light-bending plating. Only the edge shimmer is visible.
+432	SHIELD!
+433	OFF
+434	POD
+435	CRIMSON WING
+436	COMMANDER ATLAS
+437	LIEUTENANT GENERAL
+438	SEA OF SAND
+439	SAND SERPENT
+440	SIEGE SHIP
+441	Huge swarms: AREA OF EFFECT in the Technology branch pays off.
+442	Fortress Grid
+443	Fortress to fleet: the earthling has flown into the storm. Madness... or courage.
+444	Silence the fortress and the storm will break.
+445	Shieldbearer
+446	A walking fortress of thick plates.
+447	A thick, long, rapid-fire twin beam
+448	Wing leader, the earthling is on our tail! Break, break!
+449	Cappadocia
+450	A distress call from Cappadocia. Civilians underground, drills above.
+451	Ten thousand civilians beneath Cappadocia. The drilling echoes everywhere.
+452	The pod is mine! Engineers, get to work.
+453	Pod upgrades grant 2 levels at once. Evolutions only come from pods.
+454	It took the pod! Supplies lost, repeat, supplies lost!
+455	Snow blindness! I can't see the earthling! I only hear the engine!
+456	Black Hole Mine
+457	Over the Black Sea
+458	You shot down my brother. I'm trying to forgive you. The fortress shield drops for two seconds after each lightning strike.
+459	Cyclone Glaives
+460	I won't let them dig.
+461	Drops turrets that fire on their own.
+462	Sniper
+463	Locks on, then dives (heavy contact damage)
+464	Whoever it is, listen for now. But don't turn your back on her.
+465	Personal top 10 flights  •  World leaderboard in the Steam version
+466	Keyboard works too: fly with WASD or the arrow keys.
+467	Command rains artillery fire on the enemies (with a short delay).
+468	The command ship has entered the atmosphere. Thirty seconds.
+469	Everyone in command is on their feet. Come home, pilot.
+470	Commander, someone on an encrypted channel is helping me. A Vahar.
+471	Your commander sent you to die and called it heroism. What a beautiful lie.
+472	Chases
+473	Hive
+474	Tower: the last four pilots who took off from this runway never came back. Don't be the fifth, Falcon-1.
+475	Tower: the hangar crew left a note in the cockpit: \"Bring it back.\" Cleared for takeoff.
+476	Tower: the runway lights run on the last generator. Take off, now!
+477	Tower: radar's bright red. Cleared for takeoff, God be with you.
+478	Tower: tailwind, full tanks, full magazines. Cleared for takeoff!
+479	Tower: we're listening to Vahar frequencies, we'll pass on whatever we hear. Cleared for takeoff.
+480	Tower: Falcon-1, runway is clear. Cleared for takeoff, safe skies.
+481	Tower: the sirens in the city won't stop. Everyone is watching you, Falcon-1. Cleared for takeoff.
+482	Bullet walls are forming around the Sand Serpent. Find the gap.
+483	The Sand Serpent's body stretched for kilometres across the desert. The legendary PHOENIX was found in the abandoned facility.
+484	The sandstorm blinds the radar. Keep your eyes on the shadows on the ground.
+485	Sand swallows everything. Empires, cities, pilots.
+486	A Vahar base beneath the polar ice: they're cooling the planet to suit their climate. Two hunters stand guard.
+487	The polar base is on alert! The earthling must not see beneath the ice!
+488	North Pole
+489	The siege line is set. Shoot anyone who runs. All of them.
+490	The siege is broken. The base stands. The prototype in the hangar is yours now: FALCON.
+491	NIGHTMARE
+492	NIGHTMARE: unlocks after clearing the stage on HARD
+493	RISEN FROM THE ASHES!
+494	RISE FROM THE ASHES
+495	MINOR NODE
+496	Little pilot from a little planet. Varek is waiting for you... but first, dance with me.
+497	LOCKED
+498	Blade Ring
+499	Red aiming line, then a fast heavy shot
+500	The red line means it's locked on: get off the line.
+501	A ship with a short-range teleport drive.
+502	Curving stream
+503	Spark
+504	The coastal villages are out of water. The Harvester drinks a pool every second.
+505	The Crimson Wing shattered among the clouds.
+506	Crimson Wing squadron, hunter formation. The earthling's name is Falcon. Know your prey.
+507	No one has ever escaped the Crimson Wing. Neither will you.
+508	There are mines under the Crimson Wing. Don't stay behind it.
+509	The Crimson Wing's pilot is my brother, Falcon-1. Please... make it quick.
+510	My daughter is watching you on the screen, Falcon-1. Give her a good ending.
+511	L
+512	CURSE:
+513	CURSED
+521	The heat of the lava is my breath.
+522	Flying over lava... wonderful.
+523	Lord Varek's order is clear: he doesn't want the earthling alive.
+524	Did Lyra send you to me? Does my traitor sister fly with earthlings now?
+525	Lyra went on air one last time: \"Those of us who survive want peace. Real peace. This time I promise.\"
+526	I threw Lyra in a cell. You're next, pilot.
+527	I lost Lyra, I lost my ship. You're fighting someone with nothing left to lose.
+528	We'll get Lyra out of there, Commander. We owe her that.
+529	Lyra... I hear you. Your secret channel isn't secret anymore.
+530	MANEUVER  %.1f G
+531	MARKSMAN
+532	DRILL
+533	MAGNET!
+534	MULTI-FIRE
+535	Mag-Rail Cannon
+536	Magnetic Salvage Collector
+537	Max HP -15
+538	Max HP -20
+539	The Drill crashed among the fairy chimneys. The underground cities are safe.
+540	When the blue marker ring appears, get away from it.
+541	Minelayer
+542	Minefield
+543	Bullet walls: catch the gap with AGILITY and SPEED.
+544	Bullet wall
+545	Bullet speed x%.2f
+546	Bullet torrent
+547	Bullets pierce 1 enemy, +damage
+548	A twin-barrel platform that keeps its distance.
+549	A distress call from Lesbos: fishing boats under fire. Clear the sky.
+550	Billions of Vahar are watching you. What will you be to them: a killer or a saviour?
+551	Engineering cracked the pod. New systems are being transferred to your plane.
+552	Engineering decoded a new system from the Vahar cores you collected. Pick one.
+553	NORMAL
+554	Nanite Repair Swarm
+555	Napalm Trail Pods
+556	Breathe, pilot. As much as you can. Soon there will be no air.
+557	They say Noah's ark came to rest here. Mine won't.
+558	GENERAL
+559	OVERCLOCK
+560	Oxygen levels dropped fifteen percent. No time left.
+561	After oxygen, what they want most is fresh water. The Harvester is draining Lake Van.
+562	Mender
+563	Repair Kit
+564	I'll strip their weapons and turn them on them.
+565	Reaper
+566	Orbital Artillery Uplink
+567	Orbital Drone Array
+568	The day the armies fell, one squadron was still flying.
+569	FAIRY CHIMNEYS
+570	PHOENIX
+571	PILOT LICENSE
+572	PLASMA SHIELD
+573	PROPULSION
+574	Your chute opened, the rescue team is on the way. The plane is scrap but you're fine. Again.
+575	Blast radius grows
+576	Blast radius grows, more frequent
+577	Bigger blasts, more frequent
+578	Photon Lance
+579	Pilot power: %d points invested  •  %d to spend
+580	My pilots whisper your name. Not in fear, in curiosity. How long will you last?
+581	An unmanned explosive dart. It blinks while locking on, then dives.
+582	Português (BR)
+583	Bonus
+584	No points
+585	The compass has gone mad, Falcon-1. You're flying blind at the pole, trust your eyes.
+586	PILOT TREE
+587	PILOT TREE: %d points waiting to be spent
+588	PILOT POWER
+589	PILOT FALCON-1
+590	R
+591	RADAR HILL
+592	RB / A: DASH   •
+593	RB or A
+594	REACTIVE ARMOR
+595	REHEAT
+596	RECORDS
+597	REPAIR DRONE
+598	RX-20 Rotary Autocannon
+599	Three technicians remain at the radar station. If the tower falls, so do they.
+600	A gold target on radar. Don't miss it, Falcon-1, it's worth a lot.
+601	A giant shadow on radar. Whatever you've collected, the real fight starts now.
+602	A crimson ring on radar! A siege is coming, find an opening!
+603	The red dots on radar are going out one by one. Keep going, Falcon-1!
+604	Our radars saw an artificial storm spinning over the Black Sea.
+605	Save the radar and open our eyes.
+606	Your record: %s  •  Wave %d
+607	Your record: %s  •  Wave %d  •  This flight ranks #%d
+608	ATTACK
+609	ATTACKS
+610	SALVAGE HUNTER
+611	WARLORD VAREK
+612	RIGHT CLICK / SPACE: dash 270 px forward, 0.4 s invulnerable, ram enemies in your path. 2.5 s cooldown.
+613	SECOND REACTOR
+614	CAMPAIGN
+615	CAMPAIGN  —  STAGE %d
+616	CAMPAIGN MAP
+617	SEFINE
+618	SEFINE — THE LIFE SHIP
+619	SOUND:
+620	LEVEL
+621	LEVEL %d
+622	LEVEL %d → %d
+623	LEVEL %d → %d
+624	LEVEL %d!
+625	SELECT
+626	RESET (free)
+627	SCORE
+628	SCORE  %d
+629	LEFT STICK: FLY   •   WEAPONS AUTO-FIRE   •
+630	END
+631	LAST BASTION
+632	NEXT FLIGHT
+633	ENDLESS  •  WAVE %d  •  %s
+634	ENDLESS MODE
+635	SOUND BARRIER
+636	SPACE / RIGHT CLICK: DASH   •
+637	SPACE or RIGHT CLICK
+638	SPARROW
+639	START
+640	START: PAUSE
+641	WATER HARVESTER
+642	WATER WAR
+643	LV %d
+644	LV 1
+645	SYSTEMS ENGINEER
+646	Sahara Desert
+647	A legend found in an abandoned facility in the Sahara.
+648	It took three days to find the hole you hid in. Erasing you will take three minutes.
+649	An offer: land and surrender. Maybe I'll put you in a museum.
+650	Regenerates +0.5 HP per second
+651	When you see the yellow blinking, break sideways.
+652	Approach from the right, its right wing is weak! ...no, it isn't!
+653	Sefine Commander
+654	As Sefine fell, Varek escaped and landed where it all began: the square where Lyra first shook hands. The city is in ruins now. The final battle is here.
+655	A billion people aboard Sefine are waiting to breathe. How many can you save?
+656	Sefine's first hunters appeared over the Aegean. Islands, boats, harbours... everything is a target.
+657	I am Sefine's first blade. You will be my first kill.
+658	It's inside Sefine! All defence lines, weapons free!
+659	Sefine's cheap, countless eyes. Harmless alone, suffocating in a swarm.
+660	Sefine's core collapsed. The ship drifted behind the Moon in pieces.
+661	You're at eight thousand metres. If you fall here, not even a parachute will save you.
+662	You are one mind, we are two. You are one heart, we are two.
+663	Sentry Drop Turrets
+664	You see 4 cards when levelling up and get 2 extra rerolls per operation. The most consistent build.
+665	Weapons fire 8% more often
+666	Your weapons fire AUTOMATICALLY. Get close to enemies and let them do the rest.
+667	Your weapons fire automatically. You just fly, dodge and collect the fallen cores.
+668	Sinop Air Base
+669	The Sinop base's secret prototype. A boss hunter.
+670	Civilian evacuation at sixty percent. Keep them busy a little longer.
+671	Civilians hid in millennia-old underground cities. The Vahar drill ship is trying to dig them out.
+672	One of your breaths keeps one of our children alive. Have you ever thought about that?
+673	Your trash, my armor.
+674	Fly with the left stick: the plane turns toward the stick.
+675	The last guards are in the square! For Lord Varek! For Sefine!
+676	The final battle. You need a tree deep in every branch and the right plane.
+677	We found your last base. Open your gates, maybe a few of you will live.
+678	Next plane: %s (clear Stage %d)
+679	Endless patrol, Falcon-1. The Vahar waves won't stop. The longer you hold, the more lives you save.
+680	Spiral
+681	Pass through the gaps in the spiral; don't keep your distance, close is safer.
+682	Stratosphere
+683	Water? On our world we traded water for blood. Yours is cheaper.
+684	TIME
+685	Constantly produces Spark drones
+686	A constant stream of guided micro-rockets with small blasts.
+687	Constant spiral (light rounds)
+688	Swarm Missiles
+689	The swarm changed formation, they're surrounding you. Break, break!
+690	The swarm is pulling back... that's not a good sign. The big one is coming.
+691	A support ship that stays behind the swarm.
+692	SYSTEM ONLINE  //  PILOT POWER %d
+693	The next signal came from the desert. Something was moving beneath the sand.
+694	Jumper
+695	TACTICAL OPERATIONS TABLE  //  15 REGIONS
+696	FULLSCREEN:
+697	REPAIR
+698	DATE
+699	THREATS
+700	SHOW AGAIN
+701	FLY AGAIN
+702	CONTACT DAMAGE
+703	LIEUTENANT
+704	THE LAST SKY   //   OPERATION SEFINE
+705	TITANIUM WING
+706	TOTAL BONUSES\n
+707	TRIGGER DISCIPLINE
+708	BRIGADIER GENERAL
+709	KEY HINTS:
+710	Until a shadow the size of the Moon appeared in the sky. We learned its name later: SEFINE.
+711	Tactical Data Link
+712	My throne was built from the stones of this square. So will your grave be.
+713	Targeting Computer
+714	Hiding under rock... how primitive. Dig them out!
+715	Dies in one hit; drones and EMP are enough.
+716	A second beam in the opposite direction
+717	The facility's old project files mention a name: PHOENIX.
+718	Tesla Arc Coil
+719	Surrender, and I won't turn your base into a grave.
+720	Whatever you hide beneath your soil, I'll dig it up.
+721	Gunner
+722	Taurus Mountains
+723	Tungsten Storm
+724	Tungsten-Core Rounds
+725	All planes unlocked!
+726	Türkçe
+727	Click / SPACE: continue      ESC: skip
+728	Click: take
+729	Time to climb. The Vahar air force is waiting above the clouds.
+730	Satellite image: a huge swarm is gathering behind you. Turn around.
+731	The wreckage of our satellites circles in orbit. Vahar scavengers make weapons from this scrap.
+732	What lovely weapons I made from the wreckage of your satellites.
+733	Kill it from afar: the pieces scatter and rush you.
+734	No one can hear you scream in the void, pilot.
+735	You're in space. You have fuel to get back, but no more.
+736	If it lives too long it fills the screen: bring it down fast with heavy weapons.
+737	A long-barrelled ranged ship. Locks on from afar.
+738	FLY  ▶
+739	PLANE
+740	A flying fortress. Turns slowly, but melts swarms with area damage.
+741	Attack drones that orbit your plane.
+742	Once per flight, revives at 60% HP when downed and scorches everything around. The highest raw power.
+743	Flight speed -6%
+744	Flight speed -8%
+745	I know your flight path three seconds in advance.
+746	VAHAR FLEET INTELLIGENCE FILES
+747	VAHAR SHIP
+748	VAHAR COMMAND SHIP APPROACHING  //
+749	VAHAR PILOT
+750	VAREK'S THRONE
+751	VOLT
+752	VX Twin Vulcan
+753	VX-1 Light Interceptor
+754	Vahar Diplomat
+755	We found out where the Vahar fleets came from: they were casting them on a volcanic island.
+756	There's panic on the Vahar frequency. You're scaring them, pilot.
+757	The Vahar air force is gathering above the clouds. The Crimson Wing leads them.
+758	A Vahar trap! The circle is closing!
+759	Vahar technology... this is what Lyra talked about. Upload it now.
+760	Lake Van
+761	Varek is watching me, I'll keep this short: the armor on the Ice Breaker's left side is thin.
+762	Varek is celebrating tonight. By tomorrow morning, turn that celebration into mourning.
+763	Varek's Throne crashed in the middle of the first-contact square. The war is over.
+764	Varek's guard. It circles its prey, then reaps.
+765	And there it is: a ship the size of the Moon. Shields down, core exposed.
+766	Volcanic Island
+767	They cast new fleets with the heat of the volcanoes. If the Foundry doesn't stop, the war never ends.
+768	Your volcanoes are our furnaces. A new ship is cast every minute.
+769	WARNING
+770	WEAPONS MASTER
+771	WIDE FRONT
+772	XENO SCAVENGER
+773	LIEUTENANT COLONEL
+774	BANISH (%d)
+775	While BANISH is selected, the card you click won't appear again this operation
+776	BANISH: the card you click won't appear again this operation
+777	NEW WEAPON!
+778	NEW SYSTEM!
+779	NEW PLANE UNLOCKED:
+780	NEW PLANE:
+781	REROLL (%d)
+782	ABILITY:
+783	Intercepted enemy broadcast
+784	Backs off when you close in: corner it and finish it.
+785	Appears up close and dives
+786	A constant electric arc to the nearest enemy; jumps to 2 targets.
+787	Constantly damages and pushes nearby enemies. Weak against armor.
+788	Repairs nearby enemies with a green beam
+789	Half fuel, half ammo... but orders are orders. Continuing the attack.
+790	Your fuel is good, your guns are automatic. Your only job is to stay alive.
+791	It was a lie. Having burned through their own planet's oxygen and food, the Vahar now wanted ours. All of it.
+792	Teleports beside you and fires a ring of 10 (medium rounds)
+793	A slow but armored bomber.
+794	Drifts slowly
+795	Life Ship
+796	Fan shot
+797	You're getting tired. Your hands are shaking. I can feel it from here.
+798	Density x%.2f
+799	CAPTAIN
+800	The arrow pad works too. Release the stick and the plane flies straight on.
+801	Orbital Cannon
+802	You're in orbit. No sound, no wind. Just you and the scrap.
+803	High-speed ramming
+804	Upgrades grant 2 levels at once  •  evolutions come from here
+805	Lightning Web
+806	The lightning comes from the fortress generator. The waves on the Black Sea are ten metres high.
+807	VICTORY!
+808	HARD
+809	DIFFICULTY
+810	DIFFICULTY:
+811	It's minus forty at the summit. Don't let your engines ice up, keep moving.
+812	One mistake at the summit, and you stay here forever.
+813	SUMMIT
+814	Armor %d
+815	Armor +6: rail cannon, laser and armor piercing are a must.
+816	Armor 3: low-damage weapons (EMP, drones) struggle.
+817	Armor 4: ARMOR PIERCING and big single hits (laser, missile, mine).
+818	Armor 5 + heavy ships: no way through without damage and armor piercing.
+819	Armored Tank
+820	Armored ships (armor 2): small hits are weakened. Take Firepower and ARMOR PIERCING.
+821	\"  — Commander Atlas
+822	\n
+823	\nCOST:
+824	\nEVOLUTION: + %s (lv %d), from a supply pod
+825	\n\n
+826	fast
+827	signature weapon missing
+828	pilot tree broken
+829	pt_BR
+830	rank curve broken
+831	weapon level merge broken
+832	slow
+833	zh_CN
+834	difficulty curve does not match denge_sim.js
+835	EXIT
+836	Ramming
+837	Ramming; splits into 3 Sparks when destroyed
+838	Gravity well
+839	Watch out for the tractor beam: you need SPEED to break away.
+840	Very fast bullets + tractor beam: the Propulsion branch is a must.
+841	Very crowded: AREA and HP together.
+842	SCAVENGER
+843	I can sleep beneath the desert for a thousand years. You don't even have an hour.
+844	A ship coiling like a snake beneath the desert harvests silicon from the sand. There's an abandoned test facility nearby.
+845	A glint in the middle of the desert... Commander, there's a facility down there.
+846	The Scavenger is eating your sky, pilot. Soon you won't even see the stars.
+847	The Scavenger was torn apart inside its own scrap.
+848	REWARD
+849	VANGUARD HUNTER
+850	MAJOR NODE
+851	Reward: %s plane (%s)
+852	For every hunter that falls, I cast two more.
+853	Take a connected node first
+854	Bring it down first, or the area fills with mines.
+855	Priority target: the swarm won't die while it lives.
+856	The Vanguard Hunter sank into the Aegean. The first victory was ours.
+857	The leader of the vanguard squadrons is fast and ruthless. Bring it down.
+858	Absorbs 75% of shots from the front. Hit it from the side / behind: drones, mines, napalm, glaives.
+859	Recommended: %d   •   Yours: %d
+860	A heavy fighter carrying an energy shield in front. The swarm's front line.
+861	FIRST LIEUTENANT
+862	If the base falls I have nowhere to return to. So it won't fall.
+863	They found the base. The siege ship is at the gates.
+864	The base gates hold for forty minutes. After that it's not up to us.
+865	A composite ship made of three Sparks locked together.
+866	A three-shot fan, massive damage
+867	very fast
+868	SUPPLY POD
+869	TWIN HUNTERS
+870	FIRST SEEN
+871	FIRST STRIKE
+872	FIRST CONTACT CITY
+873	SIGNATURE WEAPON:
+874	THIN AIR
+875	CANCEL
+876	TIP
+877	THRUST  %d px/s²
+878	A high-speed stream of rounds from two parallel barrels, locked on target.
+879	Two of them. Go and finish it.
+880	I'll bring them both down.
+881	The Twin Hunters attack together. One dives while the other fires.
+882	The Twin Hunters were buried in the polar ice.
+883	The twins share one mind. Wound one and the other falters.
+884	They're changing the climate. An artificial storm spinning over the Black Sea, and a fortress at its centre.
+885	Supply ship to fleet: guard the pod, don't let the earthling have it!
+886	The first wave was just a greeting, pilot. My real army hasn't even woken up.
+887	First seen: Stage %d
+888	Watch for the faint shimmer; break sideways the moment it appears.
+889	Tip:
+890	Istanbul — Ruins
+891	Trail burns longer
+892	Trail widens
+893	There it is. The last breath of an earthling.
+894	FALCON-1
+895	Falcon-1 is down... but every attempt makes you stronger. Check the Pilot Tree and come back.
+896	Falcon-1 went down on wave %d over %s.
+897	Falcon-1, Vahar hunters are hitting the Aegean. This is the first wave.
+898	Falcon-1, your hull is riddled! Get out of there!
+899	Falcon-1. The best pilot in the world. The last hope.
+900	Falcon-1... whatever happens, let there be a world after this war. For both of us.
+901	People in the cities go out wearing oxygen masks. This air is ours, take it back.
+902	The lightning isn't real, it's their weapon.
+903	That glint... a Vahar supply ship. That pod is mine.
+904	Ω Solar Lance
+905	Ω-1 Experimental Prototype
+906	▶ NEXT MISSION
+907	★ %d/9
+908	★ EVOLUTION ★
+909	★ NEW RECORD! ★
+910	☠ +2 LEVELS ☠
+911	✔ ACTIVE PLANE
+912	✔ TAKEN
+913	✔ CLEARED (replay: 25% points)
+914	medium
+915	SPARROW
+916	FALCON
+917	VOLT
+918	AEGIS
+919	PHOENIX
+920	Damage
+921	Count
+922	Fire interval
+923	Hit interval
+924	Jumps
+925	Pierce
+926	Blast radius
+927	Radius
+928	Range
+929	Width
+930	Length
+931	Duration
+932	Active time
+933	Speed
+934	Rear beam
+935	 s
+936	always
+937	4 choices  •  evolutions only come from here
+938	Pods offer 4 choices. Evolutions only come from pods.
+939	It's over, Falcon-1. The war is over. Come home, the world is waiting for you.
+940	+10% damage
+941	+8% damage while below half HP
+942	+10% damage to elites and bosses
+943	Enemies 6% faster
+944	Total power
+945	Takes no slot, stacks.
+946	TACTIC
+947	%s MASTERY +%d
+948	TIER %d: 
+949	ENVIRONMENTAL HAZARD
+950	WIND!
+951	MASTERY %d/5
+952	EFFECT OPACITY: 
+953	DAMAGE NUMBERS: 
+954	CRITS ONLY
+955	ALL
+956	3D BACKGROUND: 
+957	Field Tune: Barrels
+958	Field Tune: Feed
+959	Hull Patch
+960	Sight Calibration
+961	Salvage Net
+962	Data Package
+963	Plan B
+964	+4% damage
+965	+4% fire rate
+966	+12 max HP and 30% repair
+967	+3% crit chance
+968	+15% pickup range
+969	+5% XP
+970	+1 reroll, +1 banish
+971	Vulcan +10% damage
+972	+1 reroll
+973	+8% XP
+974	+1 banish
+975	Vulcan rounds pierce 1 enemy
+976	Rockets +10% damage
+977	Target Lock salvo: 5 missiles
+978	+15 max HP
+979	Salvo every 4 s
+980	+10% more vs bosses and elites
+981	Arc +10% damage
+982	Dash cooldown 2 s
+983	+5% damage
+984	Arc jumps to 1 more target
+985	Dash ram damage +50%
+986	Flak +10% damage
+987	Shield every 6 s
+988	+20 max HP
+989	Flak fires 7 shells
+990	Shockwave when the shield absorbs a hit
+991	Solar Lance +10% damage
+992	Revive with 80% HP
+993	Solar Lance fires 15% more often
+994	Revive blast doubled
+995	Falling icicles
+996	Icicles are breaking off the summit! Stay out of the blue rings.
+997	Turbulence
+998	Turbulence in the cloud wall. The wind will push you, fly against it.
+999	Artificial lightning
+1000	Lightning incoming! It strikes when the ring closes. Lure enemies in, it burns them too.
+1001	Ice storm
+1002	The polar storm is raining ice. Watch the rings.
+1003	Sandstorm
+1004	Sandstorm incoming. Fight the wind.
+1005	Lava eruption
+1006	The volcano is waking! Lava will burst from the orange rings.
+1007	Jet stream
+1008	We've hit the jet stream. Strong wind, careful.
+1009	Satellite debris
+1010	Debris is marked with red lines. Get off the line!
+1011	Defense beams
+1012	Sefine's defense turrets have spotted us. Stay clear of the beam lines!
+1013	Vahar artillery
+1014	Varek is shelling the city! The blast line is walking toward you.
+1015	PHASE 2
+1016	%s TOKEN!
+1017	The hangar crew set aside a %s capsule token, Falcon-1. Keep holding on.
+1018	%s TOKEN  %s
+1019	%s CAPSULE TOKENS: 
+1020	   •   open them in Hangar > PAINT SHOP
+1021	Every 4 minutes survived gives a capsule token (orange after 12 min, red after 20 min).
+1022	CAMPAIGN GIFT: 1 ORANGE CAPSULE TOKEN (%s)  •  Hangar > PAINT SHOP
+1023	GREEN
+1024	ORANGE
+1025	RED
+1026	PAINT SHOP
+1027	PIECES: %d / %d
+1028	%s ×%d\nOPEN
+1029	SCRAP %d/%d: PICK A PIECE
+1030	Guarantee: if %d more capsules give nothing 4+, the next is at least ACE
+1031	MATCH TRAIL AND FLAME TO PAINT: 
+1032	Tokens are earned in ENDLESS MODE: 1 token per 4 minutes survived (orange after 12 min, red after 20 min). A token opens the capsule of the plane you flew.
+1033	LEGENDARY FULL SET
+1034	PAINT
+1035	TRAIL
+1036	EXHAUST FLAME
+1037	INSIGNIA
+1038	DEFAULT
+1039	STANDARD
+1040	MILITARY
+1041	ACE
+1042	LEGENDARY
+1043	DUPLICATE: +1 SCRAP
+1044	NEW PIECE!
+1045	EQUIP
+1046	OK
+1047	LATER
+1048	PICK A PIECE WITH SCRAP (%d scrap)
+1049	No missing rarity 1-3 pieces.
+1050	CANCEL
+1051	Grey Camo
+1052	Coastal Splinter
+1053	Aegean Wave
+1054	Coral Pixel
+1055	Breakwater
+1056	Ice Crystal
+1057	White Contrail
+1058	Helix
+1059	Twin Ribbon
+1060	Comet
+1061	Blue Burn
+1062	Twin Core
+1063	Shock Diamonds
+1064	Nova
+1065	Squadron Number
+1066	Wing Chevrons
+1067	Shark Mouth
+1068	Sky Shield
+1069	Olive Camo
+1070	Brush Splinter
+1071	Forest
+1072	Venom Pixel
+1073	Tiger
+1074	Claw Marks
+1075	Emerald
+1076	Dashed Line
+1077	Emerald Smoke
+1078	Wave
+1079	Green Burn
+1080	Long Burn
+1081	Forked Flame
+1082	Acid Plasma
+1083	Hunt Stripes
+1084	Falcon Eyes
+1085	Hunter Falcon
+1086	Sand Camo
+1087	Stone Splinter
+1088	Storm
+1089	Neon Pixel
+1090	Lightning Camo
+1091	Circuit Board
+1092	Electric Yellow
+1093	Yellow Smoke
+1094	Lightning Trail
+1095	Electric Blue
+1096	Arc Plasma
+1097	Lightning Nose
+1098	Deluge
+1099	Rust Camo
+1100	Earth Splinter
+1101	Ember Pixel
+1102	Flame Licks
+1103	Fortress Armor
+1104	Cast Copper
+1105	Ember Smoke
+1106	Fire Ribbon
+1107	Spark Rain
+1108	Orange Burn
+1109	Lava Plasma
+1110	Target Rings
+1111	Fortress Crest
+1112	Fortress
+1113	Ash Camo
+1114	Smoke Splinter
+1115	Sunset
+1116	Tulip Pixel
+1117	Flame Feathers
+1118	Fire Stripes
+1119	Rose Candy
+1120	Pink Burn
+1121	Wing Stripes
+1122	Phoenix Wings
+1123	Eternal Phoenix

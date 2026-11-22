@@ -1,0 +1,734 @@
+0	    ABSCHNITT %d  ▶  %d
+1	    TASTENHINWEISE:
+2	   (+%.1f Pkt.)
+5	   •   BOSS
+6	  (inkl. Erstabschluss-Bonus)
+7	  (wiederholter Abschnitt: 25 %)
+8	  NEU!
+9	  •  Boss
+10	  •  RUNDE %d: Feinde werden stärker
+11	  •  Punkte x%.1f
+12	 ABGESCHOSSEN!
+13	 zum Pausieren. Du bist bereit, Falke-1. Gute Jagd!
+31	%d (Basis)
+32	%d / %d Einträge freigeschaltet
+33	%s ist gefallen. Dein nächstes Ziel wartet, Falke-1.
+34	 im Anflug
+35	+%.1f PILOTENPUNKTE%s
+36	+%.1f LP/s
+37	+10 % Erfahrung
+38	+10 % Wirkungsbereich
+39	+10 % Fluggeschwindigkeit
+40	+12 % Schaden
+41	+4 % Krit.-Chance, +10 % Krit.-Schaden
+42	+40 % Schaden
+43	+40 % Sammelradius
+44	+45 % Schaden
+45	+50 % Schaden
+46	+60 % Schaden
+48	+%d max. LP
+49	+%d Geschoss / Rakete / Drohne
+50	+%d Rang-EP   •   Der Endlosmodus gibt keine Pilotenpunkte, nur Rekorde und Rang
+51	+%d Panzerung
+52	+%d Panzerungsdurchschlag
+53	+%d%% Feuerrate
+54	+%d%% Wirkungsbereich
+55	+%d%% Schaden
+56	+%d%% Krit.-Schaden
+57	+%d%% Krit.-Chance
+58	+%d%% Sammelradius
+59	+%d%% Kernausbeute
+60	+%d%% Wendigkeit
+61	+%d%% Ausweichchance
+62	+1 Schuss
+63	+1 Klinge
+64	+1 Klinge, +Schaden
+65	+1 Drohne
+66	+1 Drohne, schneller
+67	+1 Rakete
+68	+1 Mine
+69	+1 Geschoss
+70	+1 Geschoss, schnelleres Feuer
+71	+1 Sprung
+72	+1 Geschützturm
+73	+1 Blitz
+74	+1 Blitz, +2 Sprünge
+75	+2 Schüsse
+76	+2 Raketen
+77	+2 Panzerungsdurchschlag
+78	+20 max. LP, +1 Panzerung
+79	+30 LP
+80	+3000 Punkte
+81	+50 LP
+82	+Schaden
+83	+Schaden, weitere Umlaufbahn
+84	+Schaden, dicker
+85	+Schaden, häufiger
+86	+Schaden, schnellere Treffer
+87	+Schaden, längere Spur
+90	// DSHK TAKTIKFUNK
+91	// ABGEFANGENE VAHAR-SENDUNG
+92	// VERSCHLÜSSELTER KANAL — QUELLE UNBEKANNT
+93	Langsamer 12er-Ring (schwere Geschosse)
+94	16er-Ring (schwere Geschosse)
+96	3 schwere Geschütztürme, sehr schnelles Feuer
+97	3 Minen, riesiger Explosionsradius
+98	3er-Fächerschuss (mittlere Geschosse)
+99	5 Klingen, große Reichweite, kritische Treffer
+100	5 Läufe, Geschosse durchschlagen 3 Feinde, viel schnelleres Feuer
+101	5 Blitze, jeder springt auf 8 Feinde
+102	6 Drohnen, weite und sehr schnelle Umlaufbahn
+103	7er-Raketensalven, große Explosionen
+104	8.000 Meter
+105	: Sprint. Brich direkt durch den Schwarm.
+107	ADAPTIVE AVIONIK
+110	OBERST
+111	HAUPTMENÜ
+112	SCHLUSSSTEIN — stark, aber mit Preis
+115	FÄHNRICH
+116	ÜBERSPRINGEN (+%d LP)
+117	ATMOSPHÄRENSAUGER
+120	AX-12 Schwer gepanzerter Wächter
+121	EINSTELLUNGEN
+124	Bereich wächst
+125	Flächenwaffen (EMP, Napalm) schmelzen den Schwarm.
+128	Niedriger Orbit
+134	Wirft Minen hinter dir ab, die bei Kontakt explodieren.
+135	Hinterlässt eine brennende Treibstoffspur. Ideal gegen verfolgende Schwärme.
+136	Feuerteppich
+139	Jäger
+143	AN
+144	BAUM
+145	Ararat
+148	Schweres Schiff
+150	START
+151	WEISSE STILLE
+152	BOSS
+153	BOSSE
+154	WOLKENWAND
+155	EISBRECHER
+156	Blockiert regelmäßig einen Treffer vollständig (16 s, kürzer mit Stufe)
+173	Den Boss ohne Schaden besiegen
+175	Diese Region ist noch nicht erreichbar.
+180	Dieser Eintrag ist gesperrt. Schieße dieses Schiff zum ersten Mal ab, um die Akte zu öffnen.
+194	ABSCHNITT
+195	ABSCHNITT %d  •  %s
+196	ABSCHNITT %d  ▶
+197	ABSCHNITT %d ABGESCHLOSSEN
+198	FREI NACH ABSCHNITT %d
+199	ABSCHNITT %d: %s
+200	ABSCHNITT ABGESCHLOSSEN!
+201	Abschnitt %d
+202	Abschnitt %d: Versuch %d   •   Empfohlene Stärke %d, deine Stärke %d   •   +%d Rang-EP
+203	Abschnitt abschließen
+204	Spalter
+205	Teilende Geschosse
+206	Ein Teil des Spalters. Klein und sehr schnell.
+209	Alle Versorgungskapseln einsammeln
+211	MAJOR
+212	LP
+213	Höllenkorridor
+216	WELLE
+217	WELLE %d
+219	HALTBARKEIT  %d LP + %d Panzerung
+220	ÜBERLEBT
+222	DEFLEKTOR!
+223	KODEX
+224	SCHMIEDEINSEL
+225	WEITER
+226	WEITER  ▶
+227	PAUSIERT
+228	Schnelleres Feuer
+229	Dicker, häufiger
+230	Häufiger
+231	Größere Reichweite, häufiger
+232	Längere Lebensdauer, +Schaden
+233	Kreist und stürzt dann plötzlich herab
+234	Welle 1  •
+235	Taucher
+242	Versuche: %d   •   %s
+243	Erfahrung -12 %
+245	Ruft Verstärkung
+247	Riesiges EMP-Feld, sehr häufige und harte Treffer
+249	Drohnen schalten nie ab
+250	Stehende Minen (schwer)
+252	GIESSEREI
+253	FEINDE
+254	ABSCHÜSSE
+255	ABSCHÜSSE  %d
+260	Ein rotierendes, dreiflügliges Geschossfeld.
+261	Erwische es beim Kreisen; weiche seitlich aus, wenn es zustößt.
+263	Vierfacher beschleunigender Schuss
+264	Luftverteidigungskommando der Erde
+268	Der beste Pilot der Welt
+269	Flieh nicht geradeaus: in der Kurve holt es dich ein. Flieh in Bögen.
+270	Sammle die Kristalle abgeschossener Schiffe: Ist die Leiste voll, steigst du auf und wählst eine neue Waffe.
+271	Feind-LP +10 %
+272	Feind-LP +8 %
+273	Feind-LP x%.1f
+274	Feind-LP x%.1f, Schaden x%.2f  •  Punkte x%.1f
+275	Feindschaden +10 %
+276	Feindschaden +8 %
+277	Feindschaden x%.1f
+278	Feindgeschosse 10 % schneller
+279	Ein Blitz, der von Feind zu Feind springt.
+280	Feinde 8 % schneller
+282	Abschüsse: %d
+284	ZUSATZPANZERUNG
+285	GESANDTE LYRA
+286	ELITE
+288	TRÜMMERGÜRTEL
+289	ENTER / TAB / SELECT: Tutorial überspringen
+291	ESC: PAUSE   •   F: VOLLBILD
+293	EVOLUTION:
+295	EX-9 Elektrischer Sprint-Abfangjäger
+296	Ägäis
+298	Ein langsamer, aber schwerer Schuss quer über den Bildschirm. Stark gegen Panzerung.
+299	Ein Artillerieregen, der den Bildschirm mit Explosionen bedeckt
+303	Der schnellste und wendigste. Gleitet durch jeden Kugelhagel.
+304	Der vollste Abschnitt: BEREICH + LP + REGENERATION.
+305	Top 10 Überlebenszeiten  •  Feinde werden jede Welle stärker
+306	Feuert automatisch auf den nächsten Feind.
+310	Ein Schiff, das kreist und stehende Minen abwirft.
+311	Umkreist dich
+314	TUTORIAL  %d / %d
+315	TUTORIAL:
+317	MAUS oder WASD: FLIEGEN   •   WAFFEN FEUERN AUTOMATISCH   •
+318	MAUS: FLIEGEN   •   WAFFEN FEUERN AUTOMATISCH   •   F: VOLLBILD          v0.9
+319	PHASENSPRINT
+320	STURM
+321	STURMFESTUNG
+324	Klicken  •  1 / 2 / 3  •  R: neu ziehen  •  B: verbannen  •  S: überspringen
+325	Bewege die Maus: dein Flugzeug folgt dem Zeiger.
+328	Der Veteran der Flotte. Ausgewogen, berechenbar, verzeihend.
+331	Sturmkern
+333	ZURÜCK
+337	Ankunft:
+341	Ein breiter, langer, glühend heißer Flammenkorridor
+346	Wirbel
+348	MISSION GESCHEITERT
+349	MISSION ABBRECHEN
+350	WACHTURM
+351	KRAFT  x%.2f
+358	Ein schwerer Träger mit Drohnenbuchten im Rumpf.
+359	Späher
+366	Nicht genug Stärke: versuch es weiter, jeder Flug bringt Punkte.
+367	Sonnenspeer
+369	HANGAR
+370	BEWEGUNG
+371	OPERATION  ▶
+372	OPERATION %d (%d/%d)  •  ABSCHNITT %d  •  %s
+373	OPERATION %d: ABSCHNITTE %d-%d  •  dein Build bleibt 3 Abschnitte erhalten, eine Operation beginnt immer beim ersten
+374	OPERATION ABBRECHEN
+375	OPERATION WIEDERHOLEN
+377	ZIELERFASSUNG
+378	TEMPO
+379	TEMPO  %d
+382	HX-7 Raketenträger-Jäger
+384	Ring
+385	Entferne dich, bevor sich der Ring öffnet; die Ringe kommen in Abständen.
+392	Verfügbare Punkte: %d      (jeder Flug bringt Punkte • Mausrad: Zoom • Ziehen: Verschieben)
+393	Du hast %d unverbrauchte Pilotenpunkte!
+399	Geist
+402	5 Flak-Geschosse Richtung Ziel; sie zerplatzen bei 220 px. Wirksam gegen Schwärme und Panzerung.
+403	Eine Klinge, die zum Ziel fliegt und zurückkehrt und alles durchbohrt.
+404	Ein zielsuchender Sonnenstrahl, der alles durchbohrt.
+405	Zielsuchende Raketen, die beim Aufprall explodieren. Gut gegen Panzerung.
+406	Ein zielsuchender Strahl, der alles in seiner Bahn durchbohrt.
+407	Noch keine Rekorde. Ab in die Lüfte, Pilot!
+408	Noch keine
+409	+1 Geschoss / Rakete / Drohne / Geschützturm alle 2 Stufen
+410	Alle 5 s eine Salve aus 4 schweren Raketen auf das stärkste Ziel. +30 % Schaden gegen Bosse und Eliten.
+411	Absorbiert alle 7 s einen Treffer vollständig. Rammen verursacht stärkeabhängigen Schaden.
+420	Alles ist schwer: Du brauchst einen ausgewogenen, starken Baum.
+424	Ansturm
+425	GESCHICHTE
+426	Schnelle Geschosse + Menge: ein ausgewogener Build ist Pflicht.
+427	Schnelle Geschosse: nimm TEMPO und WENDIGKEIT im Antriebszweig.
+428	Schneller Abfangjäger. Aus der Staffel des Vorhut-Jägers.
+429	VERFEHLT!
+430	Ein Aufwärmflug. Sammle Kristalle, probiere die Karten.
+431	Ein Attentäter in lichtbrechender Panzerung. Nur das Kantenflimmern ist sichtbar.
+432	SCHILD!
+433	AUS
+434	KAPSEL
+435	KARMESINSCHWINGE
+436	KOMMANDANT ATLAS
+437	GENERALLEUTNANT
+438	SANDMEER
+439	SANDSCHLANGE
+440	BELAGERUNGSSCHIFF
+441	Große Schwärme: WIRKUNGSBEREICH im Technologiezweig zahlt sich aus.
+442	Festungsnetz
+445	Schildträger
+446	Eine wandelnde Festung aus dicken Platten.
+447	Ein dicker, langer Schnellfeuer-Doppelstrahl
+449	Kappadokien
+453	Kapsel-Upgrades geben 2 Stufen auf einmal. Evolutionen gibt es nur aus Kapseln.
+456	Schwarzloch-Mine
+457	Über dem Schwarzen Meer
+459	Wirbelsturm-Klingen
+461	Wirft Geschütztürme ab, die selbstständig feuern.
+462	Scharfschütze
+463	Erfasst, dann Sturzflug (schwerer Kontaktschaden)
+465	Persönliche Top 10 Flüge  •  Weltrangliste in der Steam-Version
+466	Die Tastatur geht auch: fliege mit WASD oder den Pfeiltasten.
+467	Das Kommando lässt Artilleriefeuer auf die Feinde regnen (mit kurzer Verzögerung).
+472	Verfolgt
+473	Bienenstock
+488	Nordpol
+491	ALBTRAUM
+492	ALBTRAUM: frei nach Abschluss auf SCHWER
+493	AUS DER ASCHE ERSTANDEN!
+494	AUS DER ASCHE
+495	KLEINER KNOTEN
+497	GESPERRT
+498	Klingenring
+499	Rote Ziellinie, dann ein schneller schwerer Schuss
+500	Die rote Linie zeigt die Zielerfassung: raus aus der Linie.
+501	Ein Schiff mit Kurzstrecken-Teleportantrieb.
+502	Gekrümmter Strom
+503	Funke
+511	L
+512	FLUCH:
+513	VERFLUCHT
+530	MANÖVER  %.1f G
+532	BOHRER
+533	MAGNET!
+537	Max. LP -15
+538	Max. LP -20
+540	Wenn der blaue Markierungsring erscheint, entferne dich davon.
+541	Minenleger
+542	Minenfeld
+543	Geschosswände: finde die Lücke mit WENDIGKEIT und TEMPO.
+544	Geschosswand
+545	Geschosstempo x%.2f
+546	Geschossflut
+547	Geschosse durchschlagen 1 Feind, +Schaden
+548	Eine Doppellauf-Plattform, die Abstand hält.
+551	Die Technik hat die Kapsel geknackt. Neue Systeme werden übertragen.
+552	Die Technik hat aus den gesammelten Vahar-Kernen ein neues System entschlüsselt. Wähle eines.
+553	NORMAL
+558	GENERAL
+562	Heiler
+563	Reparaturset
+565	Schnitter
+568	Am Tag, an dem die Armeen fielen, flog noch eine Staffel.
+569	FEENKAMINE
+572	PLASMASCHILD
+575	Explosionsradius wächst
+576	Explosionsradius wächst, häufiger
+577	Größere Explosionen, häufiger
+579	Pilotenstärke: %d Punkte investiert  •  %d verfügbar
+581	Ein unbemannter Sprengpfeil. Er blinkt beim Erfassen und stürzt dann herab.
+583	Prämie
+584	Keine Punkte
+586	PILOTENBAUM
+587	PILOTENBAUM: %d Punkte warten darauf, ausgegeben zu werden
+588	PILOTENSTÄRKE
+589	PILOT FALKE-1
+591	RADARHÜGEL
+592	RB / A: SPRINT   •
+593	RB oder A
+596	REKORDE
+606	Dein Rekord: %s  •  Welle %d
+607	Dein Rekord: %s  •  Welle %d  •  Dieser Flug: Platz %d
+608	ANGRIFF
+609	ANGRIFFE
+611	KRIEGSHERR VAREK
+612	RECHTSKLICK / LEERTASTE: 270 px nach vorn sprinten, 0,4 s unverwundbar, Feinde rammen. 2,5 s Abklingzeit.
+614	FELDZUG
+615	FELDZUG  —  ABSCHNITT %d
+616	FELDZUGKARTE
+617	SEFINE
+618	SEFINE — DAS LEBENSSCHIFF
+619	TON:
+620	STUFE
+621	STUFE %d
+622	STUFE %d → %d
+623	STUFE %d → %d
+624	STUFE %d!
+625	WÄHLEN
+626	ZURÜCKSETZEN (gratis)
+627	PUNKTE
+628	PUNKTE  %d
+629	LINKER STICK: FLIEGEN   •   WAFFEN FEUERN AUTOMATISCH   •
+630	ENDE
+631	LETZTE BASTION
+632	NÄCHSTER FLUG
+633	ENDLOS  •  WELLE %d  •  %s
+634	ENDLOSMODUS
+636	LEERTASTE / RECHTSKLICK: SPRINT   •
+637	LEERTASTE oder RECHTSKLICK
+640	START: PAUSE
+641	WASSERERNTER
+642	WASSERKRIEG
+643	ST %d
+644	ST 1
+646	Sahara
+647	Eine Legende aus einer verlassenen Anlage in der Sahara.
+650	Regeneriert +0,5 LP pro Sekunde
+651	Wenn es gelb blinkt, brich seitlich aus.
+653	Sefine-Kommandant
+659	Sefines billige, zahllose Augen. Allein harmlos, im Schwarm erdrückend.
+664	Du siehst beim Aufstieg 4 Karten und erhältst 2 zusätzliche Neuziehungen pro Operation. Der beständigste Build.
+665	Waffen feuern 8 % häufiger
+666	Deine Waffen feuern AUTOMATISCH. Geh nah an die Feinde, den Rest erledigen sie.
+667	Deine Waffen feuern automatisch. Du fliegst nur, weichst aus und sammelst die Kerne.
+668	Luftwaffenbasis Sinop
+669	Der geheime Prototyp der Sinop-Basis. Ein Bossjäger.
+674	Fliege mit dem linken Stick: das Flugzeug dreht in Stickrichtung.
+676	Die letzte Schlacht. Du brauchst einen in allen Zweigen tiefen Baum und das richtige Flugzeug.
+678	Nächstes Flugzeug: %s (Abschnitt %d abschließen)
+680	Spirale
+681	Fliege durch die Lücken der Spirale; Abstand halten bringt nichts, nah ist sicherer.
+682	Stratosphäre
+684	ZEIT
+685	Erzeugt ständig Funken-Drohnen
+686	Ein ständiger Strom gelenkter Mikroraketen mit kleinen Explosionen.
+687	Ständige Spirale (leichte Geschosse)
+688	Schwarmraketen
+691	Ein Unterstützungsschiff, das hinter dem Schwarm bleibt.
+692	SYSTEM ONLINE  //  PILOTENSTÄRKE %d
+694	Springer
+695	TAKTISCHER OPERATIONSTISCH  //  15 REGIONEN
+696	VOLLBILD:
+697	REPARATUR
+698	DATUM
+699	BEDROHUNGEN
+700	ERNEUT ZEIGEN
+701	NOCHMAL FLIEGEN
+702	KONTAKTSCHADEN
+703	LEUTNANT
+704	THE LAST SKY   //   OPERATION SEFINE
+706	GESAMTBONI\n
+708	BRIGADEGENERAL
+709	TASTENHINWEISE:
+715	Fällt mit einem Treffer; Drohnen und EMP reichen.
+716	Ein zweiter Strahl in Gegenrichtung
+721	Kanonier
+722	Taurusgebirge
+723	Wolframsturm
+725	Alle Flugzeuge freigeschaltet!
+727	Klick / LEERTASTE: weiter      ESC: überspringen
+728	Klick: nehmen
+733	Aus der Ferne töten: die Teile verteilen sich und stürmen auf dich zu.
+736	Lebt es zu lange, füllt es den Bildschirm: schnell mit schweren Waffen ausschalten.
+737	Ein Langstreckenschiff mit langem Lauf. Erfasst dich aus der Ferne.
+738	FLIEGEN  ▶
+739	FLUGZEUG
+740	Eine fliegende Festung. Dreht langsam, schmilzt aber Schwärme mit Flächenschaden.
+741	Angriffsdrohnen, die dein Flugzeug umkreisen.
+742	Einmal pro Flug wiederbelebt mit 60 % LP und verbrennt alles ringsum. Die höchste rohe Kraft.
+743	Fluggeschwindigkeit -6 %
+744	Fluggeschwindigkeit -8 %
+746	VAHAR-FLOTTE: GEHEIMDIENSTAKTEN
+747	VAHAR-SCHIFF
+748	VAHAR-KOMMANDOSCHIFF IM ANFLUG  //
+749	VAHAR-PILOT
+750	VAREKS THRON
+753	VX-1 Leichter Abfangjäger
+754	Vahar-Diplomat
+760	Vansee
+764	Vareks Leibwache. Umkreist die Beute und mäht sie dann nieder.
+766	Vulkaninsel
+769	WARNUNG
+773	OBERSTLEUTNANT
+774	VERBANNEN (%d)
+775	Solange VERBANNEN gewählt ist, erscheint die angeklickte Karte in dieser Operation nicht mehr
+776	VERBANNEN: die angeklickte Karte erscheint in dieser Operation nicht mehr
+777	NEUE WAFFE!
+778	NEUES SYSTEM!
+779	NEUES FLUGZEUG FREIGESCHALTET:
+780	NEUES FLUGZEUG:
+781	NEU ZIEHEN (%d)
+782	FÄHIGKEIT:
+783	Abgefangene Feindsendung
+784	Weicht zurück, wenn du näher kommst: in die Enge treiben und erledigen.
+785	Erscheint aus der Nähe und stürzt herab
+786	Ein ständiger Lichtbogen zum nächsten Feind; springt auf 2 Ziele.
+787	Schadet und schiebt nahe Feinde ständig. Schwach gegen Panzerung.
+788	Repariert nahe Feinde mit einem grünen Strahl
+792	Teleportiert sich neben dich und feuert einen 10er-Ring (mittlere Geschosse)
+793	Ein langsamer, aber gepanzerter Bomber.
+794	Treibt langsam
+795	Lebensschiff
+796	Fächerschuss
+798	Dichte x%.2f
+799	HAUPTMANN
+800	Das Steuerkreuz geht auch. Lässt du den Stick los, fliegt das Flugzeug geradeaus.
+801	Orbitalkanone
+803	Rammen mit hoher Geschwindigkeit
+804	Upgrade gibt 2 Stufen auf einmal  •  Evolutionen gibt es hier
+805	Blitznetz
+807	SIEG!
+808	SCHWER
+809	SCHWIERIGKEIT
+810	SCHWIERIGKEIT:
+813	GIPFEL
+814	Panzerung %d
+815	Panzerung +6: Schienenkanone, Laser und Panzerdurchschlag sind Pflicht.
+816	Panzerung 3: Waffen mit geringem Schaden (EMP, Drohnen) tun sich schwer.
+817	Panzerung 4: PANZERDURCHSCHLAG und große Einzeltreffer (Laser, Rakete, Mine).
+818	Panzerung 5 + schwere Schiffe: ohne Schaden und Panzerdurchschlag kein Durchkommen.
+819	Panzertank
+820	Gepanzerte Schiffe (Panzerung 2): kleine Treffer werden geschwächt. Nimm Feuerkraft und PANZERDURCHSCHLAG.
+821	"  — Kommandant Atlas
+823	\nPREIS:
+824	\nEVOLUTION: + %s (St %d), aus einer Versorgungskapsel
+826	schnell
+832	langsam
+835	BEENDEN
+836	Rammen
+837	Rammen; zerfällt beim Abschuss in 3 Funken
+838	Gravitationsfeld
+839	Vorsicht vor dem Traktorstrahl: du brauchst TEMPO, um dich zu lösen.
+840	Sehr schnelle Geschosse + Traktorstrahl: der Antriebszweig ist Pflicht.
+841	Sehr voll: BEREICH und LP zusammen.
+842	AASFRESSER
+848	BELOHNUNG
+849	VORHUT-JÄGER
+850	GROSSER KNOTEN
+851	Belohnung: Flugzeug %s (%s)
+853	Nimm zuerst einen verbundenen Knoten
+854	Schieß es zuerst ab, sonst füllt sich das Feld mit Minen.
+855	Vorrangiges Ziel: solange es lebt, stirbt der Schwarm nicht.
+858	Absorbiert 75 % der Geschosse von vorn. Triff es von der Seite / von hinten: Drohnen, Minen, Napalm, Klingen.
+859	Empfohlen: %d   •   Deine: %d
+860	Ein schwerer Kämpfer mit Energieschild an der Front. Die vorderste Reihe des Schwarms.
+861	OBERLEUTNANT
+865	Ein Verbundschiff aus drei aneinandergekoppelten Funken.
+866	Ein Dreifachfächer mit gewaltigem Schaden
+867	sehr schnell
+868	VERSORGUNGSKAPSEL
+869	ZWILLINGSJÄGER
+870	ERSTMALS GESEHEN
+871	ERSTER SCHLAG
+872	STADT DES ERSTKONTAKTS
+873	SIGNATURWAFFE:
+874	DÜNNE LUFT
+875	ABBRECHEN
+876	TIPP
+877	SCHUB  %d px/s²
+878	Ein schneller Geschossstrom aus zwei parallelen Läufen, auf das Ziel gerichtet.
+887	Erstmals gesehen: Abschnitt %d
+888	Achte auf das schwache Flimmern; brich seitlich aus, sobald es auftaucht.
+889	Tipp:
+890	Istanbul — Ruinen
+891	Spur brennt länger
+892	Spur wird breiter
+894	FALKE-1
+896	Falke-1 stürzte in Welle %d über %s ab.
+905	Ω-1 Experimenteller Prototyp
+906	▶ NÄCHSTE MISSION
+908	★ EVOLUTION ★
+909	★ NEUER REKORD! ★
+910	☠ +2 STUFEN ☠
+911	✔ AKTIVES FLUGZEUG
+912	✔ GENOMMEN
+913	✔ ABGESCHLOSSEN (Wiederholung: 25 % Punkte)
+914	mittel
+920	Schaden
+921	Anzahl
+922	Feuerintervall
+923	Trefferintervall
+924	Sprünge
+925	Durchschlag
+926	Explosionsradius
+927	Radius
+928	Reichweite
+929	Breite
+930	Länge
+931	Dauer
+932	Aktivzeit
+933	Tempo
+934	Heckstrahl
+935	 s
+936	dauerhaft
+937	4 Optionen  •  Evolutionen nur von hier
+938	Kapseln bieten 4 Optionen. Evolutionen gibt es nur aus Kapseln.
+939	Es ist vorbei, Falke-1. Der Krieg ist vorbei. Komm nach Hause, die Welt wartet auf dich.
+940	+10 % Schaden
+941	+8 % Schaden unter halben LP
+942	+10 % Schaden gegen Eliten und Bosse
+943	Feinde 6 % schneller
+944	Gesamtkraft
+945	Belegt keinen Platz, stapelt sich.
+946	TAKTIK
+947	%s-MEISTERSCHAFT +%d
+948	STUFE %d: 
+949	UMWELTGEFAHR
+950	WIND!
+951	MEISTERSCHAFT %d/5
+952	EFFEKT-DECKKRAFT: 
+953	SCHADENSZAHLEN: 
+954	NUR KRITISCH
+955	ALLE
+956	3D-HINTERGRUND: 
+957	Feldjustierung: Läufe
+958	Feldjustierung: Zufuhr
+959	Rumpfflicken
+960	Visierkalibrierung
+961	Bergungsnetz
+962	Datenpaket
+963	Plan B
+964	+4% Schaden
+965	+4% Feuerrate
+966	+12 max. HP und 30% Reparatur
+967	+3% Kritchance
+968	+15% Aufsammelradius
+969	+5% EP
+970	+1 Neu ziehen, +1 Verbannen
+971	Vulcan +10% Schaden
+972	+1 Neu ziehen
+973	+8% EP
+974	+1 Verbannen
+975	Vulcan-Geschosse durchschlagen 1 Gegner
+976	Raketen +10% Schaden
+977	Zielerfassungssalve: 5 Raketen
+978	+15 max. HP
+979	Salve alle 4 s
+980	+10% mehr gegen Bosse und Elite
+981	Bogen +10% Schaden
+982	Sprint-Abklingzeit 2 s
+983	+5% Schaden
+984	Bogen springt auf 1 weiteres Ziel
+985	Sprint-Rammschaden +50%
+986	Flak +10% Schaden
+987	Schild alle 6 s
+988	+20 max. HP
+989	Flak feuert 7 Granaten
+990	Schockwelle, wenn der Schild einen Treffer absorbiert
+991	Sonnenlanze +10% Schaden
+992	Wiederbelebung mit 80% HP
+993	Sonnenlanze feuert 15% häufiger
+994	Wiederbelebungsexplosion verdoppelt
+995	Fallende Eiszapfen
+996	Am Gipfel brechen Eiszapfen ab! Bleib aus den blauen Ringen.
+997	Turbulenz
+998	Turbulenz in der Wolkenwand. Der Wind drückt dich weg, flieg dagegen.
+999	Künstliche Blitze
+1000	Blitze kommen! Sie schlagen ein, wenn der Ring sich schließt. Lock Gegner hinein, sie trifft es auch.
+1001	Eisregen
+1002	Der Polarsturm lässt Eis regnen. Achte auf die Ringe.
+1003	Sandsturm
+1004	Sandsturm im Anmarsch. Stemm dich gegen den Wind.
+1005	Lavaausbruch
+1006	Der Vulkan erwacht! Aus den orangen Ringen schießt Lava.
+1007	Jetstream
+1008	Wir sind im Jetstream. Starker Wind, Vorsicht.
+1009	Satellitentrümmer
+1010	Trümmer werden mit roten Linien markiert. Weg von der Linie!
+1011	Abwehrstrahlen
+1012	Sefines Abwehrtürme haben uns entdeckt. Halt dich von den Strahllinien fern!
+1013	Vahar-Artillerie
+1014	Varek bombardiert die Stadt! Die Explosionslinie wandert auf dich zu.
+1015	PHASE 2
+1016	%s-MARKE!
+1017	Die Hangarcrew hat eine %s Kapselmarke zurückgelegt, Falke-1. Halte durch.
+1018	%s-MARKE  %s
+1019	%s-KAPSELMARKEN: 
+1020	   •   im Hangar > LACKIEREREI öffnen
+1021	Alle 4 überlebten Minuten gibt es eine Kapselmarke (ab 12 Min. orange, ab 20 Min. rot).
+1022	FELDZUG-GESCHENK: 1 ORANGE KAPSELMARKE (%s)  •  Hangar > LACKIEREREI
+1023	GRÜN
+1024	ORANGE
+1025	ROT
+1026	LACKIEREREI
+1027	TEILE: %d / %d
+1028	%s ×%d\nÖFFNEN
+1029	SCHROTT %d/%d: TEIL WÄHLEN
+1030	Garantie: kommt in %d weiteren Kapseln nichts ab 4, ist die nächste mindestens ASS
+1031	SPUR UND FLAMME AN LACK ANPASSEN: 
+1032	Marken gibt es im ENDLOSMODUS: 1 Marke pro 4 überlebte Minuten (ab 12 Min. orange, ab 20 Min. rot). Eine Marke öffnet die Kapsel des geflogenen Flugzeugs.
+1033	LEGENDÄRES SET
+1034	LACKIERUNG
+1035	SPUR
+1036	TRIEBWERKSFLAMME
+1037	ABZEICHEN
+1038	STANDARD
+1039	STANDARD
+1040	MILITÄR
+1041	ASS
+1042	LEGENDÄR
+1043	DUPLIKAT: +1 SCHROTT
+1044	NEUES TEIL!
+1045	AUSRÜSTEN
+1046	OK
+1047	SPÄTER
+1048	TEIL MIT SCHROTT WÄHLEN (%d Schrott)
+1049	Keine fehlenden Teile der Seltenheit 1-3.
+1050	ABBRECHEN
+1051	Grautarnung
+1052	Küstensplitter
+1053	Ägäiswelle
+1054	Korallenpixel
+1055	Wellenbrecher
+1056	Eiskristall
+1057	Weißer Kondensstreifen
+1058	Helix
+1059	Doppelband
+1060	Komet
+1061	Blaue Flamme
+1062	Doppelkern
+1063	Schockdiamanten
+1064	Nova
+1065	Staffelnummer
+1066	Flügelwinkel
+1067	Haifischmaul
+1068	Himmelsschild
+1069	Olivtarnung
+1070	Buschsplitter
+1071	Wald
+1072	Giftpixel
+1073	Tiger
+1074	Krallenspuren
+1075	Smaragd
+1076	Strichlinie
+1077	Smaragdrauch
+1078	Welle
+1079	Grüne Flamme
+1080	Lange Flamme
+1081	Gabelflamme
+1082	Säureplasma
+1083	Jagdstreifen
+1084	Falkenaugen
+1085	Jägerfalke
+1086	Sandtarnung
+1087	Steinsplitter
+1088	Sturm
+1089	Neonpixel
+1090	Blitztarnung
+1091	Platine
+1092	Elektrogelb
+1093	Gelber Rauch
+1094	Blitzspur
+1095	Elektroblau
+1096	Bogenplasma
+1097	Blitznase
+1098	Sintflut
+1099	Rosttarnung
+1100	Erdsplitter
+1101	Glutpixel
+1102	Flammenzungen
+1103	Festungspanzer
+1104	Gusskupfer
+1105	Glutrauch
+1106	Feuerband
+1107	Funkenregen
+1108	Orange Flamme
+1109	Lavaplasma
+1110	Zielringe
+1111	Festungswappen
+1112	Festung
+1113	Aschetarnung
+1114	Rauchsplitter
+1115	Sonnenuntergang
+1116	Tulpenpixel
+1117	Flammenfedern
+1118	Feuerstreifen
+1119	Rosenzucker
+1120	Rosa Flamme
+1121	Flügelstreifen
+1122	Phönixflügel
+1123	Ewiger Phönix
